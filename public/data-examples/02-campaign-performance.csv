@@ -1,0 +1,261 @@
+result_id,report_date,campaign_name,creative_id,message_ar,message_en,media_channel,placement,audience_cohort,impressions,unique_reach,engagements,shares,link_clicks,completed_views,observed_verification_actions,negative_feedback,spend_aed
+PERF-0001,2026-01-01,Ask Before You Share,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,X,Reels,Professionals,31397,25746,2060,227,330,5922,96,62,2040
+PERF-0002,2026-01-02,Ask Before You Share,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",TikTok,Reels,Content creators,93038,81873,4094,983,450,29474,149,0,2977
+PERF-0003,2026-01-03,Ask Before You Share,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,TikTok,Feed,Content creators,98843,72155,6494,844,1429,18039,514,0,676
+PERF-0004,2026-01-04,Ask Before You Share,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,YouTube,Reels,Content creators,36128,29264,2341,655,1077,7609,549,23,4811
+PERF-0005,2026-01-05,Ask Before You Share,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,TikTok,Promoted post,Students,112552,81037,3241,454,681,35656,313,130,2957
+PERF-0006,2026-01-06,Ask Before You Share,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,YouTube,Stories,Students,58324,50742,4059,1218,1461,19789,526,0,3776
+PERF-0007,2026-01-07,Ask Before You Share,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,YouTube,Promoted post,Youth,133221,89258,2678,830,884,42844,486,0,3562
+PERF-0008,2026-01-08,Ask Before You Share,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,Government portal,Reels,Parents,20841,14797,1480,370,459,5623,248,0,2709
+PERF-0009,2026-01-09,Ask Before You Share,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,Instagram,Promoted post,Students,87189,58417,9347,2898,2337,30377,748,187,4294
+PERF-0010,2026-01-10,Ask Before You Share,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,TikTok,Reels,Students,115105,100141,10014,2203,3305,46065,1983,401,5672
+PERF-0011,2026-01-11,Ask Before You Share,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,Government portal,Stories,Youth,31725,20939,2722,544,544,8585,98,109,1303
+PERF-0012,2026-01-12,Ask Before You Share,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",TikTok,Reels,Residents,86039,73133,11701,3510,3627,40223,1668,0,5966
+PERF-0013,2026-01-13,Ask Before You Share,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,Government portal,Stories,Professionals,19726,16570,2154,431,948,1491,512,0,2318
+PERF-0014,2026-01-14,Ask Before You Share,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,Government portal,Promoted post,Residents,154319,112653,6759,1014,1622,30416,1038,68,2343
+PERF-0015,2026-01-15,Ask Before You Share,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,Instagram,Feed,Residents,83953,54569,4366,742,1222,17462,354,131,2522
+PERF-0016,2026-01-16,Ask Before You Share,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,X,Reels,Residents,34679,21501,3010,452,993,7310,675,30,3664
+PERF-0017,2026-01-17,Ask Before You Share,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,Instagram,Stories,Youth,77037,59318,1780,534,356,13050,217,0,3953
+PERF-0018,2026-01-18,Ask Before You Share,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,YouTube,Pre-roll,Content creators,131094,95699,4785,813,1962,28710,1295,0,5165
+PERF-0019,2026-01-19,Ask Before You Share,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",Government portal,Pre-roll,Residents,132302,107165,12860,1157,2443,23576,1539,0,977
+PERF-0020,2026-01-20,Ask Before You Share,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,Government portal,Pre-roll,Parents,55238,49714,5469,984,1313,21377,853,164,2532
+PERF-0021,2026-01-21,Ask Before You Share,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",YouTube,Stories,Parents,73682,64103,5769,808,808,20513,452,231,3063
+PERF-0022,2026-01-22,Ask Before You Share,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",YouTube,Pre-roll,Residents,20784,18290,732,146,256,1829,128,22,3556
+PERF-0023,2026-01-23,Ask Before You Share,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,TikTok,Reels,Parents,144588,95428,14314,1861,2720,27674,1088,573,5685
+PERF-0024,2026-01-24,Ask Before You Share,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,YouTube,Feed,Parents,89609,65415,1962,235,294,31399,188,78,4222
+PERF-0025,2026-01-25,Ask Before You Share,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",X,Promoted post,Professionals,174953,153959,21554,1509,6035,12317,3561,647,3646
+PERF-0026,2026-01-26,Ask Before You Share,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,YouTube,Pre-roll,Parents,85598,63343,9501,2755,3420,22803,1710,95,1078
+PERF-0027,2026-01-27,Ask Before You Share,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,Instagram,Feed,Students,26939,20474,2662,293,958,7985,374,0,1714
+PERF-0028,2026-01-28,Ask Before You Share,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,Government portal,Feed,Parents,104173,89589,14334,2293,1720,9855,482,0,3369
+PERF-0029,2026-01-29,Ask Before You Share,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,YouTube,Pre-roll,Professionals,94415,67979,10197,816,4589,29911,2019,0,4083
+PERF-0030,2026-01-30,Ask Before You Share,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,Government portal,Feed,Youth,153719,132198,10576,2327,1692,35693,558,212,4542
+PERF-0031,2026-01-31,Ask Before You Share,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,Government portal,Stories,Students,163156,138683,20802,1872,5825,51313,2621,624,5181
+PERF-0032,2026-02-01,Ask Before You Share,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,TikTok,Promoted post,Content creators,73471,62450,8119,1380,1218,21858,828,0,1398
+PERF-0033,2026-02-02,Ask Before You Share,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,Instagram,Pre-roll,Residents,13630,11994,720,122,122,4918,50,29,4344
+PERF-0034,2026-02-03,Ask Before You Share,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,Government portal,Pre-roll,Residents,95893,70961,3548,1064,1526,15611,366,35,2763
+PERF-0035,2026-02-04,Ask Before You Share,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",Instagram,Promoted post,Students,81714,58017,2321,162,580,6382,273,46,3029
+PERF-0036,2026-02-05,Ask Before You Share,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,TikTok,Feed,Residents,76929,58466,5847,1637,1813,24556,689,117,3270
+PERF-0037,2026-02-06,Ask Before You Share,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,X,Stories,Professionals,130751,91526,7322,586,2197,17390,1033,146,5881
+PERF-0038,2026-02-07,Ask Before You Share,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,Instagram,Promoted post,Content creators,115392,77313,6958,1252,1252,9278,739,278,2338
+PERF-0039,2026-02-08,Ask Before You Share,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,TikTok,Promoted post,Content creators,90621,58904,7658,2374,919,24740,239,153,2552
+PERF-0040,2026-02-09,Ask Before You Share,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,YouTube,Promoted post,Parents,92051,81005,5670,397,1531,32402,291,0,906
+PERF-0041,2026-02-10,Ask Before You Share,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",X,Reels,Residents,87670,77150,11573,3240,3009,19288,1053,0,4680
+PERF-0042,2026-02-11,Ask Before You Share,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,Instagram,Reels,Parents,26304,19202,3264,392,490,3264,206,98,2074
+PERF-0043,2026-02-12,Ask Before You Share,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,Instagram,Reels,Content creators,99296,76458,12233,1468,3792,38229,720,489,1718
+PERF-0044,2026-02-13,Ask Before You Share,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,TikTok,Stories,Professionals,142540,88375,6186,619,2536,37118,609,62,1162
+PERF-0045,2026-02-14,Ask Before You Share,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",Government portal,Promoted post,Students,84424,63318,2533,785,583,13297,280,76,2772
+PERF-0046,2026-02-15,Ask Before You Share,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,Government portal,Reels,Youth,178088,147813,22172,3104,9977,81297,6984,222,5604
+PERF-0047,2026-02-16,Ask Before You Share,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",TikTok,Reels,Professionals,37655,23346,1868,168,280,3035,73,75,2868
+PERF-0048,2026-02-17,Ask Before You Share,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",Government portal,Reels,Professionals,126768,109020,18533,5560,1853,20714,1001,556,5563
+PERF-0049,2026-02-18,Ask Before You Share,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,TikTok,Promoted post,Youth,28527,21110,3378,540,1284,5911,629,34,650
+PERF-0050,2026-02-19,Ask Before You Share,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,Instagram,Promoted post,Content creators,19322,17390,1913,402,440,3130,290,77,3546
+PERF-0051,2026-02-20,Ask Before You Share,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,TikTok,Promoted post,Parents,133612,108226,18398,4232,6255,32468,3128,0,783
+PERF-0052,2026-02-21,Ask Before You Share,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,TikTok,Reels,Residents,71041,55412,8866,887,2571,18840,823,266,2590
+PERF-0053,2026-02-22,Ask Before You Share,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,TikTok,Stories,Youth,161921,137633,22021,5285,7267,50924,2180,661,4692
+PERF-0054,2026-02-23,Ask Before You Share,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,YouTube,Feed,Youth,140597,108260,6496,1234,2923,11909,1900,260,4283
+PERF-0055,2026-02-24,Ask Before You Share,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,TikTok,Promoted post,Professionals,41158,30869,4939,889,494,2778,336,49,424
+PERF-0056,2026-02-25,Ask Before You Share,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,Government portal,Feed,Residents,47097,31084,5284,581,1902,14920,380,0,5519
+PERF-0057,2026-02-26,Ask Before You Share,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,X,Reels,Professionals,115236,84122,7571,2347,909,29443,645,151,3215
+PERF-0058,2026-02-27,Ask Before You Share,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",Government portal,Reels,Youth,91473,78667,2360,142,590,12587,165,24,818
+PERF-0059,2026-02-28,Ask Before You Share,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,X,Promoted post,Residents,154231,98708,13819,3593,3869,15793,2244,138,4093
+PERF-0060,2026-03-01,Ask Before You Share,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",Government portal,Pre-roll,Youth,68270,55299,4424,354,796,13825,565,177,616
+PERF-0061,2026-03-02,Ask Before You Share,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",X,Feed,Youth,90056,75647,5295,847,2224,38580,1490,212,877
+PERF-0062,2026-03-03,Ask Before You Share,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,TikTok,Promoted post,Youth,133460,113441,14747,3097,5899,11344,1062,590,2526
+PERF-0063,2026-03-04,Ask Before You Share,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,Government portal,Promoted post,Students,56534,51446,2058,391,535,4630,209,62,2851
+PERF-0064,2026-03-05,Ask Before You Share,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",TikTok,Feed,Youth,149756,113815,6829,1366,1707,63736,1041,68,5417
+PERF-0065,2026-03-06,Ask Before You Share,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,TikTok,Feed,Parents,172858,153844,12308,3815,2215,35384,975,246,3619
+PERF-0066,2026-03-07,Ask Before You Share,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,TikTok,Promoted post,Youth,169934,127451,7647,2371,3518,54804,2252,0,4623
+PERF-0067,2026-03-08,Ask Before You Share,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",Instagram,Stories,Professionals,108522,91158,12762,3573,2680,8204,1635,510,2640
+PERF-0068,2026-03-09,Ask Before You Share,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,X,Promoted post,Professionals,73428,66085,5948,1011,2677,7930,1553,119,5366
+PERF-0069,2026-03-10,Ask Before You Share,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",Instagram,Reels,Students,19319,17580,1582,174,396,2813,186,63,5808
+PERF-0070,2026-03-11,Ask Before You Share,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,X,Pre-roll,Content creators,144956,91322,15525,3571,5123,21004,1537,155,3706
+PERF-0071,2026-03-12,Ask Before You Share,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,X,Reels,Content creators,175717,117730,10596,2861,2967,60042,1662,318,5840
+PERF-0072,2026-03-13,Ask Before You Share,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,Government portal,Promoted post,Students,160629,107621,12915,2841,3487,48429,1813,0,729
+PERF-0073,2026-03-14,Ask Before You Share,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,TikTok,Feed,Content creators,158700,125373,18806,1128,8275,48895,3145,188,3438
+PERF-0074,2026-03-15,Ask Before You Share,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,YouTube,Stories,Parents,53899,38807,3493,978,1607,21344,932,70,5312
+PERF-0075,2026-03-16,Ask Before You Share,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",Instagram,Pre-roll,Professionals,37550,32669,1633,196,719,2940,144,33,5037
+PERF-0076,2026-03-17,Ask Before You Share,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,TikTok,Reels,Residents,99379,61615,4313,690,1941,30808,427,86,5180
+PERF-0077,2026-03-18,Ask Before You Share,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,Government portal,Pre-roll,Parents,18951,16487,2473,495,1063,8244,468,49,6064
+PERF-0078,2026-03-19,Ask Before You Share,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,TikTok,Promoted post,Content creators,159850,135873,19022,2283,1902,46197,1027,761,6047
+PERF-0079,2026-03-20,Ask Before You Share,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,X,Stories,Professionals,38935,27255,2453,294,1104,10902,265,25,429
+PERF-0080,2026-03-21,Ask Before You Share,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,YouTube,Reels,Professionals,139447,115741,4630,1204,926,23148,565,139,2724
+PERF-0081,2026-03-22,Ask Before You Share,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,YouTube,Feed,Youth,28274,19509,1756,457,579,2731,400,35,4026
+PERF-0082,2026-03-23,Ask Before You Share,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,Instagram,Reels,Youth,160700,110883,17741,5500,1952,41027,429,355,4501
+PERF-0083,2026-03-24,Ask Before You Share,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,TikTok,Feed,Students,73721,63400,6340,1585,2790,25994,1730,127,1100
+PERF-0084,2026-03-25,Ask Before You Share,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",X,Promoted post,Parents,67705,60257,4821,820,1928,11449,578,145,5668
+PERF-0085,2026-03-26,Ask Before You Share,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,YouTube,Stories,Residents,55788,50209,4519,1265,633,21088,317,0,1150
+PERF-0086,2026-03-27,Ask Before You Share,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",Instagram,Promoted post,Content creators,50880,45792,2290,160,412,24270,99,92,2996
+PERF-0087,2026-03-28,Ask Before You Share,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,TikTok,Pre-roll,Students,20248,15996,800,144,168,3359,114,16,1120
+PERF-0088,2026-03-29,Ask Before You Share,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,TikTok,Pre-roll,Youth,19222,15762,630,38,145,2680,48,19,907
+PERF-0089,2026-03-30,Ask Before You Share,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,TikTok,Stories,Content creators,85011,68009,10201,2550,2652,8161,1406,102,2187
+PERF-0090,2026-03-31,Ask Before You Share,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,TikTok,Feed,Youth,132668,118075,17711,4074,4959,43688,2727,708,4660
+PERF-0091,2026-04-01,Ask Before You Share,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,Instagram,Promoted post,Professionals,148184,131884,10551,844,1055,71217,549,106,4779
+PERF-0092,2026-04-02,Ask Before You Share,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,Government portal,Pre-roll,Professionals,170518,129594,19439,1944,7776,54429,3421,194,367
+PERF-0093,2026-04-03,Ask Before You Share,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,X,Pre-roll,Students,112840,73346,7335,587,2421,25671,484,147,3742
+PERF-0094,2026-04-04,Ask Before You Share,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,YouTube,Reels,Residents,83004,58933,2357,589,1061,32413,647,94,5910
+PERF-0095,2026-04-05,Ask Before You Share,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,Government portal,Stories,Professionals,58809,41754,1670,217,367,7098,132,17,1236
+PERF-0096,2026-04-06,Ask Before You Share,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,YouTube,Feed,Parents,16424,10840,759,129,288,4986,207,15,3344
+PERF-0097,2026-04-07,Ask Before You Share,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,TikTok,Feed,Content creators,93712,59976,5398,702,864,20392,181,54,3761
+PERF-0098,2026-04-08,Ask Before You Share,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,Instagram,Reels,Residents,120758,82115,9033,2349,2439,29561,1146,271,3455
+PERF-0099,2026-04-09,Ask Before You Share,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,X,Pre-roll,Parents,95977,74862,8983,1258,1527,14972,748,90,919
+PERF-0100,2026-04-10,Ask Before You Share,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,Instagram,Pre-roll,Professionals,39000,29250,3510,983,1404,3803,604,0,1752
+PERF-0101,2026-04-11,Ask Before You Share,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,Instagram,Pre-roll,Professionals,103634,89125,14260,2852,4421,49910,2520,0,5180
+PERF-0102,2026-04-12,Ask Before You Share,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,X,Stories,Professionals,138387,119013,17852,1607,1785,47605,482,0,1280
+PERF-0103,2026-04-13,Ask Before You Share,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,X,Promoted post,Residents,91893,62487,8123,1056,1706,18746,938,0,1773
+PERF-0104,2026-04-14,Ask Before You Share,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,Government portal,Feed,Students,19908,12741,1656,99,530,2676,228,17,2762
+PERF-0105,2026-04-15,Ask Before You Share,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",Government portal,Promoted post,Parents,81772,60511,3026,545,726,30256,189,91,2474
+PERF-0106,2026-04-16,Ask Before You Share,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,Government portal,Pre-roll,Professionals,100909,70636,12008,2882,4203,24016,2438,240,4546
+PERF-0107,2026-04-17,Ask Before You Share,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,X,Feed,Residents,158931,143038,11443,2289,2517,21456,1158,0,626
+PERF-0108,2026-04-18,Ask Before You Share,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,Instagram,Stories,Professionals,158726,122219,3667,990,587,25666,123,0,3852
+PERF-0109,2026-04-19,Ask Before You Share,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",YouTube,Pre-roll,Students,98293,72737,10911,1964,3382,24731,2435,327,5701
+PERF-0110,2026-04-20,Ask Before You Share,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",Instagram,Feed,Residents,70147,49103,3928,668,1178,14731,495,0,478
+PERF-0111,2026-04-21,Ask Before You Share,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,Government portal,Feed,Content creators,25666,19250,1733,225,433,3658,160,0,2592
+PERF-0112,2026-04-22,Ask Before You Share,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,YouTube,Reels,Students,22598,15819,949,142,95,8859,53,9,2975
+PERF-0113,2026-04-23,Ask Before You Share,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,YouTube,Feed,Professionals,76131,63950,5116,563,1432,15988,415,205,5954
+PERF-0114,2026-04-24,Ask Before You Share,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",Instagram,Promoted post,Residents,147167,104489,12539,1129,5517,24032,2924,125,3888
+PERF-0115,2026-04-25,Ask Before You Share,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",X,Promoted post,Parents,166308,124731,4989,748,1497,69849,734,100,458
+PERF-0116,2026-04-26,Ask Before You Share,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,YouTube,Pre-roll,Professionals,27701,18006,900,126,126,5582,54,0,5207
+PERF-0117,2026-04-27,Ask Before You Share,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,TikTok,Reels,Youth,173379,143905,21586,1511,6476,14391,2072,0,4070
+PERF-0118,2026-04-28,Ask Before You Share,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,TikTok,Stories,Students,152849,114637,11464,2064,3554,44708,711,115,639
+PERF-0119,2026-04-29,Ask Before You Share,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,YouTube,Promoted post,Youth,103717,76751,12280,1105,2702,19955,621,0,2747
+PERF-0120,2026-04-30,Ask Before You Share,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,X,Promoted post,Students,47914,38331,6133,613,1779,21465,890,0,6190
+PERF-0121,2026-05-01,Ask Before You Share,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,Instagram,Promoted post,Youth,151989,110952,7767,1165,1010,39943,374,233,3613
+PERF-0122,2026-05-02,Ask Before You Share,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,YouTube,Feed,Students,113545,86294,8629,2244,2761,28477,1160,173,4188
+PERF-0123,2026-05-03,Ask Before You Share,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,Government portal,Pre-roll,Youth,145211,111812,11181,2683,4361,14536,1919,335,3421
+PERF-0124,2026-05-04,Ask Before You Share,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",TikTok,Stories,Professionals,109179,97169,6802,1905,1905,18462,933,272,4404
+PERF-0125,2026-05-05,Ask Before You Share,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,YouTube,Promoted post,Youth,57470,37356,5603,504,2129,13075,405,168,5134
+PERF-0126,2026-05-06,Ask Before You Share,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,YouTube,Promoted post,Residents,81738,60486,10283,1645,4422,15726,2078,0,2955
+PERF-0127,2026-05-07,Ask Before You Share,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,Government portal,Reels,Residents,125324,99006,16831,2356,6564,30692,1707,168,4110
+PERF-0128,2026-05-08,Ask Before You Share,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,TikTok,Feed,Content creators,86952,64344,8365,2259,2342,12225,703,335,2140
+PERF-0129,2026-05-09,Ask Before You Share,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,Instagram,Stories,Students,105267,94740,13264,3581,6101,29369,3234,265,5099
+PERF-0130,2026-05-10,Ask Before You Share,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,YouTube,Feed,Content creators,100650,66429,3986,279,1634,7971,1127,0,4853
+PERF-0131,2026-05-11,Check the Source,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,TikTok,Pre-roll,Youth,124725,78577,10215,1328,1839,14144,497,409,2291
+PERF-0132,2026-05-12,Check the Source,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,Government portal,Promoted post,Content creators,11207,7845,549,115,203,4315,112,16,3285
+PERF-0133,2026-05-13,Check the Source,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",Government portal,Feed,Youth,120508,93996,2820,395,1213,15039,449,113,4339
+PERF-0134,2026-05-14,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,TikTok,Promoted post,Parents,132743,90265,12637,1516,1264,18053,872,0,621
+PERF-0135,2026-05-15,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,Government portal,Reels,Content creators,93477,73847,5908,1595,709,14031,362,59,730
+PERF-0136,2026-05-16,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,TikTok,Feed,Students,46415,34811,5570,613,780,10095,179,0,5853
+PERF-0137,2026-05-17,Check the Source,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",YouTube,Stories,Professionals,124819,88621,14179,3687,5246,24814,2623,0,3053
+PERF-0138,2026-05-18,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,TikTok,Promoted post,Content creators,159041,122462,17145,1372,5315,28166,2870,0,2560
+PERF-0139,2026-05-19,Check the Source,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,Government portal,Feed,Students,165818,126022,20164,6049,4234,16383,1482,605,1342
+PERF-0140,2026-05-20,Check the Source,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,TikTok,Feed,Content creators,116939,93551,14033,1684,1824,44904,948,421,6136
+PERF-0141,2026-05-21,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,TikTok,Promoted post,Parents,94873,76847,6916,2006,830,30739,216,207,1865
+PERF-0142,2026-05-22,Check the Source,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,Government portal,Promoted post,Students,11211,9866,987,207,355,2368,107,10,789
+PERF-0143,2026-05-23,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,YouTube,Stories,Content creators,56658,37961,1139,308,456,4935,260,46,744
+PERF-0144,2026-05-24,Check the Source,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,TikTok,Reels,Youth,51292,44111,1323,119,437,7499,302,0,3632
+PERF-0145,2026-05-25,Check the Source,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,TikTok,Pre-roll,Content creators,56387,47929,7669,614,767,25882,330,230,591
+PERF-0146,2026-05-26,Check the Source,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",Instagram,Feed,Residents,89351,68800,9632,963,2504,26144,1077,385,2411
+PERF-0147,2026-05-27,Check the Source,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,TikTok,Pre-roll,Students,100987,70691,8483,2290,3733,33225,2576,339,403
+PERF-0148,2026-05-28,Check the Source,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,Government portal,Pre-roll,Youth,129683,84294,4215,506,801,26974,577,84,3152
+PERF-0149,2026-05-29,Check the Source,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,TikTok,Feed,Professionals,172225,148114,13330,3999,1600,78500,960,267,5426
+PERF-0150,2026-05-30,Check the Source,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",Instagram,Stories,Youth,33404,27725,3327,898,1264,14694,367,133,4463
+PERF-0151,2026-05-31,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,Instagram,Pre-roll,Students,176359,130506,19576,5286,6656,22186,2263,0,4761
+PERF-0152,2026-06-01,Check the Source,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,Government portal,Pre-roll,Professionals,70288,56933,9679,2323,3581,7971,1683,97,6182
+PERF-0153,2026-06-02,Check the Source,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,Government portal,Reels,Parents,10320,7018,421,80,173,1684,119,13,4050
+PERF-0154,2026-06-03,Check the Source,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,Instagram,Pre-roll,Content creators,27154,23896,2868,516,631,8842,151,0,4607
+PERF-0155,2026-06-04,Check the Source,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",Government portal,Pre-roll,Youth,15661,10806,1081,65,411,5079,103,32,5610
+PERF-0156,2026-06-05,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,Instagram,Feed,Professionals,36707,32669,4900,392,1176,5227,800,98,2536
+PERF-0157,2026-06-06,Check the Source,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",YouTube,Reels,Parents,176090,135589,23050,3227,6915,25762,2628,692,4182
+PERF-0158,2026-06-07,Check the Source,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,YouTube,Pre-roll,Youth,168736,148488,4455,356,535,69789,284,134,2854
+PERF-0159,2026-06-08,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,Government portal,Promoted post,Students,160355,134698,12123,1818,2182,44450,720,0,5100
+PERF-0160,2026-06-09,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,TikTok,Promoted post,Content creators,68002,54402,5984,778,1616,6528,549,239,4101
+PERF-0161,2026-06-10,Check the Source,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,Government portal,Feed,Residents,77031,55462,8874,976,2130,6655,852,177,4397
+PERF-0162,2026-06-11,Check the Source,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",Government portal,Pre-roll,Youth,92582,82398,14008,3782,6023,44495,2771,280,1705
+PERF-0163,2026-06-12,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,Instagram,Promoted post,Students,95348,83906,4195,1300,1426,40275,927,84,2498
+PERF-0164,2026-06-13,Check the Source,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,YouTube,Stories,Youth,51799,40921,4911,638,982,13095,628,147,5921
+PERF-0165,2026-06-14,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,TikTok,Feed,Residents,78194,58646,8797,880,1847,12902,1053,88,1521
+PERF-0166,2026-06-15,Check the Source,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",Instagram,Pre-roll,Professionals,38770,28302,2830,340,1189,15283,761,85,1896
+PERF-0167,2026-06-16,Check the Source,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,Government portal,Feed,Parents,125732,90527,7242,869,2607,38927,704,0,5870
+PERF-0168,2026-06-17,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,YouTube,Stories,Students,167859,115823,13899,3197,3614,28956,1879,278,1258
+PERF-0169,2026-06-18,Check the Source,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",Instagram,Promoted post,Youth,10207,6328,253,28,56,570,39,10,5802
+PERF-0170,2026-06-19,Check the Source,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,TikTok,Stories,Youth,136688,87480,5249,787,2310,37616,1663,0,4057
+PERF-0171,2026-06-20,Check the Source,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,Instagram,Feed,Parents,10528,6633,1061,297,414,2985,232,0,2585
+PERF-0172,2026-06-21,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,X,Pre-roll,Students,52567,41528,1661,183,664,15781,153,33,3166
+PERF-0173,2026-06-22,Check the Source,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,TikTok,Pre-roll,Content creators,138552,87288,2619,733,917,11347,440,26,1409
+PERF-0174,2026-06-23,Check the Source,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",X,Feed,Youth,44959,30123,2410,627,868,3012,330,48,4700
+PERF-0175,2026-06-24,Check the Source,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,X,Promoted post,Professionals,139658,93571,12164,2068,1825,43043,1040,0,5379
+PERF-0176,2026-06-25,Check the Source,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",YouTube,Stories,Youth,137787,88184,10582,1799,1587,9700,317,106,3197
+PERF-0177,2026-06-26,Check the Source,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,YouTube,Promoted post,Content creators,81771,65417,8504,2381,2636,20933,1318,340,1934
+PERF-0178,2026-06-27,Check the Source,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",TikTok,Pre-roll,Parents,100570,70399,3520,950,739,12672,163,106,5619
+PERF-0179,2026-06-28,Check the Source,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",X,Promoted post,Professionals,75309,57235,2289,526,664,5151,412,23,5498
+PERF-0180,2026-06-29,Check the Source,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,YouTube,Promoted post,Residents,60493,48999,1960,431,216,9800,63,78,4096
+PERF-0181,2026-01-01,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,YouTube,Feed,Professionals,153298,121105,8477,1780,3899,50864,2066,0,943
+PERF-0182,2026-01-02,Check the Source,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,YouTube,Stories,Parents,13136,11691,1987,119,219,2689,57,79,4623
+PERF-0183,2026-01-03,Check the Source,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,TikTok,Pre-roll,Residents,157903,131059,22280,3788,2451,31454,1127,0,5245
+PERF-0184,2026-01-04,Check the Source,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,Instagram,Pre-roll,Students,90650,68894,11712,703,4568,20668,1553,234,1512
+PERF-0185,2026-01-05,Check the Source,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,Instagram,Reels,Content creators,12592,9444,283,57,130,944,59,0,5268
+PERF-0186,2026-01-06,Check the Source,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,Government portal,Pre-roll,Professionals,127235,87792,14925,4179,1493,28971,672,149,1341
+PERF-0187,2026-01-07,Check the Source,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",Government portal,Stories,Students,51822,37830,4161,499,1165,4540,699,42,5328
+PERF-0188,2026-01-08,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,TikTok,Stories,Professionals,43742,37181,5949,1130,773,20078,139,59,1848
+PERF-0189,2026-01-09,Check the Source,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,X,Feed,Residents,46277,30080,4211,674,1684,10829,488,0,838
+PERF-0190,2026-01-10,Check the Source,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",TikTok,Feed,Students,170760,136608,13661,3552,6011,75134,4328,546,631
+PERF-0191,2026-01-11,Check the Source,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",Instagram,Reels,Students,17118,15406,770,100,293,2619,179,31,5239
+PERF-0192,2026-01-12,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,YouTube,Reels,Parents,163426,125838,12584,2391,3272,37751,785,126,1011
+PERF-0193,2026-01-13,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,Government portal,Promoted post,Parents,106952,77005,13091,1833,1571,12321,597,0,703
+PERF-0194,2026-01-14,Check the Source,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,X,Pre-roll,Content creators,82214,60016,9603,2785,3745,17405,1610,96,3445
+PERF-0195,2026-01-15,Check the Source,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,TikTok,Reels,Content creators,72368,47039,3293,790,1054,14582,601,66,6148
+PERF-0196,2026-01-16,Check the Source,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,YouTube,Stories,Students,74712,51551,4124,1072,1815,9279,1053,0,2414
+PERF-0197,2026-01-17,Check the Source,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,Government portal,Stories,Students,84381,62442,9991,899,4296,6244,945,200,4566
+PERF-0198,2026-01-18,Check the Source,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,Instagram,Stories,Parents,156902,142781,17134,2227,4626,39979,1295,514,5727
+PERF-0199,2026-01-19,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,YouTube,Feed,Professionals,168859,113136,5657,339,1414,13576,382,113,1425
+PERF-0200,2026-01-20,Check the Source,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,Government portal,Feed,Professionals,35136,27406,1370,178,260,3289,159,41,1904
+PERF-0201,2026-01-21,Check the Source,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,X,Stories,Parents,118745,106871,17099,3762,6669,49161,3601,513,4857
+PERF-0202,2026-01-22,Check the Source,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,Government portal,Reels,Youth,30932,25364,4058,1217,1501,4058,570,122,3958
+PERF-0203,2026-01-23,Check the Source,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",Government portal,Pre-roll,Professionals,67319,43757,7001,1680,1610,23191,580,0,5696
+PERF-0204,2026-01-24,Check the Source,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,Instagram,Stories,Content creators,154342,104953,14693,4261,6612,51427,3504,294,3354
+PERF-0205,2026-01-25,Check the Source,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,Instagram,Feed,Parents,28627,18321,1649,231,396,5130,139,66,6159
+PERF-0206,2026-01-26,Check the Source,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,X,Reels,Professionals,20995,17846,2142,278,835,8209,468,43,1614
+PERF-0207,2026-01-27,Check the Source,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,Instagram,Feed,Content creators,59350,43919,6588,1647,1120,23277,504,198,5142
+PERF-0208,2026-01-28,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,YouTube,Reels,Content creators,175525,133399,20010,4602,4402,18676,2553,200,1364
+PERF-0209,2026-01-29,Check the Source,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",TikTok,Reels,Youth,149449,124043,17366,1563,5557,38453,1500,0,2862
+PERF-0210,2026-01-30,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,Instagram,Pre-roll,Content creators,124827,91124,2734,410,848,23692,509,55,502
+PERF-0211,2026-01-31,Check the Source,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,Instagram,Feed,Residents,106766,82210,9043,1989,3436,7399,2474,90,5770
+PERF-0212,2026-02-01,Check the Source,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,YouTube,Stories,Parents,47164,33958,2377,309,380,7471,228,71,3584
+PERF-0213,2026-02-02,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,X,Pre-roll,Youth,145005,127604,7656,1378,2603,62526,1067,230,1795
+PERF-0214,2026-02-03,Check the Source,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,TikTok,Promoted post,Content creators,114322,93744,13124,3543,2494,9374,998,131,3435
+PERF-0215,2026-02-04,Check the Source,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,Government portal,Pre-roll,Residents,175021,110263,14334,2437,4014,15437,2609,0,911
+PERF-0216,2026-02-05,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,TikTok,Promoted post,Residents,8490,7726,773,46,286,3090,154,0,2775
+PERF-0217,2026-02-06,Check the Source,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",YouTube,Stories,Content creators,137831,95103,14265,2282,2282,37090,913,143,2545
+PERF-0218,2026-02-07,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,X,Feed,Youth,68211,50476,3029,363,1272,27762,623,61,3437
+PERF-0219,2026-02-08,Check the Source,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,Instagram,Reels,Residents,107916,69066,4144,580,414,6216,298,124,2499
+PERF-0220,2026-02-09,Check the Source,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",X,Feed,Parents,159113,105015,6301,1071,2079,11552,624,63,3300
+PERF-0221,2026-02-10,Check the Source,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,Government portal,Promoted post,Youth,119051,95241,4762,286,714,11429,179,48,1729
+PERF-0222,2026-02-11,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,Government portal,Stories,Professionals,46256,34229,5134,1232,667,18141,427,205,544
+PERF-0223,2026-02-12,Check the Source,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,Instagram,Pre-roll,Youth,13770,9914,1190,369,262,3272,105,36,1261
+PERF-0224,2026-02-13,Check the Source,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,TikTok,Reels,Professionals,42262,33810,4395,264,1538,16229,769,44,3398
+PERF-0225,2026-02-14,Check the Source,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",Government portal,Feed,Professionals,177413,124189,14903,1043,4620,29805,1525,596,1204
+PERF-0226,2026-02-15,Check the Source,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",Instagram,Feed,Content creators,57892,45735,1372,274,137,10519,71,14,949
+PERF-0227,2026-02-16,Check the Source,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,Government portal,Feed,Students,112243,77448,8519,1107,1959,43371,1175,85,3314
+PERF-0228,2026-02-17,Check the Source,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,YouTube,Promoted post,Students,18071,11385,342,38,55,2049,24,14,5726
+PERF-0229,2026-02-18,Check the Source,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,X,Promoted post,Students,174195,144582,20241,4048,8906,23133,5255,202,1653
+PERF-0230,2026-02-19,Check the Source,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",Instagram,Feed,Youth,145258,95870,10546,1055,1582,9587,427,0,1493
+PERF-0231,2026-02-20,Check the Source,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,YouTube,Stories,Parents,65995,49496,5445,327,1634,10394,752,0,5364
+PERF-0232,2026-02-21,Check the Source,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",Government portal,Feed,Residents,54334,41294,7020,1193,1544,14040,1019,281,1427
+PERF-0233,2026-02-22,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,TikTok,Reels,Residents,113674,82982,4979,1095,996,7468,458,50,5414
+PERF-0234,2026-02-23,Check the Source,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,Government portal,Stories,Youth,99543,83616,7525,1129,3161,11706,1739,301,4956
+PERF-0235,2026-02-24,Check the Source,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",YouTube,Pre-roll,Content creators,100382,64244,1927,366,212,16061,66,39,404
+PERF-0236,2026-02-25,Check the Source,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,X,Pre-roll,Content creators,33186,25553,4088,531,1104,12777,375,41,3134
+PERF-0237,2026-02-26,Check the Source,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,TikTok,Feed,Parents,93837,67563,5405,432,1946,26350,370,0,1213
+PERF-0238,2026-02-27,Check the Source,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,TikTok,Stories,Students,92612,62050,3103,807,714,31646,314,0,1866
+PERF-0239,2026-02-28,Check the Source,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,Government portal,Pre-roll,Professionals,65358,58822,5882,823,1765,17058,1165,235,1933
+PERF-0240,2026-03-01,Check the Source,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,X,Pre-roll,Content creators,39140,35226,4227,296,1437,8807,848,85,4865
+PERF-0241,2026-03-02,Check the Source,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,X,Promoted post,Content creators,141023,119870,15583,3584,3117,19179,1621,467,4390
+PERF-0242,2026-03-03,Check the Source,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,Government portal,Reels,Students,108812,90314,8128,1707,2682,46060,1261,0,2300
+PERF-0243,2026-03-04,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,TikTok,Stories,Professionals,32783,22948,918,248,147,8720,43,28,5965
+PERF-0244,2026-03-05,Check the Source,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,Government portal,Promoted post,Professionals,168915,136821,6841,410,1505,64306,873,274,5662
+PERF-0245,2026-03-06,Check the Source,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,X,Pre-roll,Youth,103191,65010,8451,1521,3127,31855,1657,169,5351
+PERF-0246,2026-03-07,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,Instagram,Pre-roll,Students,60925,38992,2340,585,959,6629,374,0,3671
+PERF-0247,2026-03-08,Check the Source,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,Instagram,Stories,Youth,45319,38974,4287,986,986,14031,503,129,4655
+PERF-0248,2026-03-09,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,Instagram,Pre-roll,Professionals,134489,86073,4304,258,1549,22379,1038,172,1274
+PERF-0249,2026-03-10,Check the Source,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,X,Pre-roll,Youth,163498,120989,19358,4452,4646,36297,1626,774,2221
+PERF-0250,2026-03-11,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,X,Pre-roll,Content creators,109195,96092,9609,2691,4324,38437,2119,288,4307
+PERF-0251,2026-03-12,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,X,Stories,Youth,116106,85918,12888,3738,5155,30930,3145,0,2987
+PERF-0252,2026-03-13,Check the Source,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,Government portal,Reels,Content creators,177833,158271,23741,6885,6647,28489,3789,237,1729
+PERF-0253,2026-03-14,Check the Source,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,Government portal,Stories,Parents,170865,148653,13379,3077,4683,75813,1499,535,2601
+PERF-0254,2026-03-15,Check the Source,MSG-A,تأكد من صحة الخبر قبل مشاركته,Verify the news before sharing it,YouTube,Stories,Residents,57363,35565,1067,203,160,19561,114,21,4383
+PERF-0255,2026-03-16,Check the Source,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,Government portal,Feed,Youth,73401,52849,2642,317,872,22725,392,79,3158
+PERF-0256,2026-03-17,Check the Source,MSG-C,خذ عشر ثوان وتأكد من المصدر,Take ten seconds to check the source,Government portal,Promoted post,Residents,42737,37181,6321,885,1327,4462,809,63,5421
+PERF-0257,2026-03-18,Check the Source,MSG-B,قبل ما تشارك اسأل: من المصدر؟,"Before sharing, ask: who is the source?",Government portal,Feed,Professionals,155236,135055,20258,3646,4457,13506,2318,810,3669
+PERF-0258,2026-03-19,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,YouTube,Stories,Students,10652,8948,1521,365,319,4474,160,61,1639
+PERF-0259,2026-03-20,Check the Source,MSG-E,المصدر والتاريخ أول خطوتين للتحقق,Source and date are the first two verification checks,YouTube,Reels,Students,91369,58476,3509,702,526,23975,352,140,4640
+PERF-0260,2026-03-21,Check the Source,MSG-D,مش كل شيء تشوفه حقيقة,Not everything you see is true,Government portal,Feed,Parents,16188,12789,384,104,100,2814,43,8,2210

@@ -1,0 +1,301 @@
+anonymous_response_id,survey_date,age_band,emirate_or_city,preferred_platform,shares_news_frequency_1_to_5,verifies_before_sharing_1_to_5,trust_in_official_sources_1_to_5,notices_source_name_1_to_5,communication_fatigue_1_to_5,preferred_content_format,primary_question_or_concern,preferred_language,consent_for_aggregate_analysis
+SUR-0001,2026-01-01,18-24,Kalba,TikTok,3,4,4,1,1,Infographic,How do I find the original source?,Arabic,true
+SUR-0002,2026-01-02,18-24,Al Dhaid,YouTube,2,2,4,5,4,Infographic,How do I find the original source?,Arabic,true
+SUR-0003,2026-01-03,18-24,UAE,X,2,4,2,1,4,Explainer video,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,English,true
+SUR-0004,2026-01-04,45-54,Kalba,WhatsApp,2,4,5,2,1,Infographic,هل الصورة حديثة أم قديمة؟,English,true
+SUR-0005,2026-01-05,35-44,Kalba,Instagram,5,3,4,2,3,Official statement,Which official channel should I follow?,Arabic,true
+SUR-0006,2026-01-06,18-24,Al Dhaid,YouTube,4,1,3,3,3,Official statement,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0007,2026-01-07,55+,Khor Fakkan,YouTube,1,2,3,5,2,Short video,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,English,true
+SUR-0008,2026-01-08,55+,Sharjah,Government portal,1,1,3,4,5,Explainer video,كيف أعرف الحساب الرسمي؟,English,true
+SUR-0009,2026-01-09,55+,Khor Fakkan,WhatsApp,3,3,5,4,5,Short video,How do I find the original source?,Arabic,true
+SUR-0010,2026-01-10,55+,Sharjah,WhatsApp,3,4,4,5,2,Short video,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0011,2026-01-11,45-54,UAE,WhatsApp,3,5,5,2,4,Short video,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0012,2026-01-12,55+,Al Dhaid,YouTube,2,2,2,3,5,Infographic,How do I find the original source?,Arabic,true
+SUR-0013,2026-01-13,55+,Kalba,YouTube,5,4,4,5,3,Infographic,هل يمكن التحقق من الفيديو بسرعة؟,English,true
+SUR-0014,2026-01-14,35-44,Khor Fakkan,Instagram,5,2,4,1,4,Explainer video,كيف أعرف الحساب الرسمي؟,English,true
+SUR-0015,2026-01-15,35-44,Kalba,WhatsApp,5,5,3,5,4,Official statement,How do I find the original source?,Arabic,true
+SUR-0016,2026-01-16,45-54,Sharjah,TikTok,4,1,5,2,5,Infographic,Which official channel should I follow?,Arabic,true
+SUR-0017,2026-01-17,45-54,Sharjah,Instagram,1,3,3,3,1,Short video,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0018,2026-01-18,35-44,UAE,YouTube,4,1,2,3,2,Source card,كيف أعرف الحساب الرسمي؟,English,true
+SUR-0019,2026-01-19,35-44,Al Dhaid,Instagram,5,5,2,4,3,Explainer video,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0020,2026-01-20,35-44,UAE,WhatsApp,5,2,5,2,5,Source card,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,English,true
+SUR-0021,2026-01-21,18-24,Al Dhaid,Government portal,4,2,5,5,4,Infographic,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0022,2026-01-22,35-44,Khor Fakkan,X,5,4,2,4,2,Short video,كيف أعرف الحساب الرسمي؟,English,true
+SUR-0023,2026-01-23,45-54,Al Dhaid,Instagram,5,4,3,5,4,Official statement,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0024,2026-01-24,25-34,UAE,Government portal,1,5,4,4,1,Short video,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0025,2026-01-25,18-24,Al Dhaid,X,3,4,2,1,1,Official statement,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0026,2026-01-26,55+,UAE,Instagram,2,3,5,1,2,Explainer video,How do I find the original source?,English,true
+SUR-0027,2026-01-27,25-34,Khor Fakkan,X,1,1,5,1,4,Source card,Which official channel should I follow?,Arabic,true
+SUR-0028,2026-01-28,18-24,Sharjah,YouTube,5,3,5,4,2,Q&A,Which official channel should I follow?,Arabic,true
+SUR-0029,2026-01-29,18-24,Khor Fakkan,TikTok,3,5,5,4,1,Infographic,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,English,true
+SUR-0030,2026-01-30,35-44,Kalba,Government portal,2,3,5,2,3,Short video,How do I find the original source?,English,true
+SUR-0031,2026-01-31,25-34,UAE,Instagram,1,4,4,5,5,Official statement,How do I find the original source?,Arabic,true
+SUR-0032,2026-02-01,55+,Sharjah,X,4,4,5,2,1,Short video,Which official channel should I follow?,Arabic,true
+SUR-0033,2026-02-02,45-54,UAE,X,1,4,4,3,5,Official statement,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0034,2026-02-03,25-34,Kalba,Government portal,5,1,4,3,5,Explainer video,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0035,2026-02-04,45-54,Khor Fakkan,X,3,3,3,5,5,Q&A,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0036,2026-02-05,55+,UAE,YouTube,1,5,4,2,5,Explainer video,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0037,2026-02-06,25-34,Sharjah,Government portal,2,5,5,1,5,Infographic,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0038,2026-02-07,18-24,Al Dhaid,YouTube,2,1,5,3,3,Q&A,Which official channel should I follow?,Arabic,true
+SUR-0039,2026-02-08,35-44,Kalba,WhatsApp,1,2,5,3,5,Infographic,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0040,2026-02-09,18-24,Kalba,Government portal,1,2,3,2,4,Source card,هل الصورة حديثة أم قديمة؟,English,true
+SUR-0041,2026-02-10,45-54,Kalba,Instagram,5,4,5,2,4,Q&A,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0042,2026-02-11,18-24,UAE,TikTok,4,5,4,1,4,Q&A,How do I find the original source?,Arabic,true
+SUR-0043,2026-02-12,18-24,Sharjah,YouTube,5,2,4,5,5,Source card,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0044,2026-02-13,55+,Sharjah,YouTube,4,2,5,3,5,Short video,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0045,2026-02-14,18-24,Kalba,X,5,3,2,3,3,Source card,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0046,2026-02-15,25-34,Khor Fakkan,YouTube,3,3,3,2,1,Q&A,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0047,2026-02-16,55+,Khor Fakkan,Instagram,5,1,2,4,3,Q&A,How do I find the original source?,Arabic,true
+SUR-0048,2026-02-17,55+,Al Dhaid,YouTube,4,2,4,4,5,Infographic,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0049,2026-02-18,25-34,UAE,X,2,5,4,2,2,Infographic,Which official channel should I follow?,Arabic,true
+SUR-0050,2026-02-19,25-34,Kalba,TikTok,2,5,4,1,5,Infographic,Which official channel should I follow?,Arabic,true
+SUR-0051,2026-02-20,18-24,Al Dhaid,Instagram,3,5,2,4,5,Infographic,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0052,2026-02-21,55+,Kalba,WhatsApp,1,5,4,2,1,Short video,How do I find the original source?,Arabic,true
+SUR-0053,2026-02-22,55+,Al Dhaid,TikTok,3,1,5,5,4,Infographic,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0054,2026-02-23,45-54,Sharjah,Government portal,3,4,5,2,5,Official statement,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0055,2026-02-24,35-44,Khor Fakkan,WhatsApp,1,5,3,3,3,Source card,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0056,2026-02-25,18-24,Khor Fakkan,Instagram,5,3,5,2,2,Q&A,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0057,2026-02-26,55+,Khor Fakkan,Government portal,4,2,4,1,5,Source card,How do I find the original source?,English,true
+SUR-0058,2026-02-27,55+,UAE,Instagram,3,3,2,1,5,Official statement,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0059,2026-02-28,55+,Al Dhaid,Instagram,5,2,2,3,3,Q&A,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0060,2026-03-01,45-54,Khor Fakkan,WhatsApp,3,1,5,4,3,Short video,هل الصورة حديثة أم قديمة؟,English,true
+SUR-0061,2026-03-02,18-24,Al Dhaid,Government portal,3,1,2,4,4,Short video,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0062,2026-03-03,45-54,Sharjah,X,5,4,5,3,2,Source card,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0063,2026-03-04,35-44,UAE,TikTok,3,5,4,2,5,Source card,How do I find the original source?,Arabic,true
+SUR-0064,2026-03-05,55+,UAE,Government portal,4,3,5,2,5,Source card,Which official channel should I follow?,Arabic,true
+SUR-0065,2026-03-06,45-54,Al Dhaid,TikTok,4,5,5,2,2,Explainer video,Which official channel should I follow?,Arabic,true
+SUR-0066,2026-03-07,55+,UAE,TikTok,4,2,5,2,2,Infographic,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0067,2026-03-08,25-34,Al Dhaid,Instagram,2,4,4,1,3,Official statement,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0068,2026-03-09,45-54,Al Dhaid,Government portal,3,1,4,2,4,Explainer video,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0069,2026-03-10,55+,Kalba,Government portal,2,3,2,1,5,Source card,Which official channel should I follow?,English,true
+SUR-0070,2026-03-11,25-34,UAE,Instagram,1,5,4,1,2,Q&A,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0071,2026-03-12,45-54,Khor Fakkan,WhatsApp,4,2,2,5,5,Short video,How do I find the original source?,English,true
+SUR-0072,2026-03-13,35-44,Khor Fakkan,TikTok,5,2,4,3,3,Short video,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0073,2026-03-14,55+,Khor Fakkan,WhatsApp,2,3,2,5,5,Short video,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0074,2026-03-15,45-54,Kalba,TikTok,5,1,2,1,4,Source card,How do I find the original source?,Arabic,true
+SUR-0075,2026-03-16,35-44,UAE,X,3,1,3,5,2,Infographic,How do I find the original source?,Arabic,true
+SUR-0076,2026-03-17,35-44,Sharjah,Government portal,5,4,5,3,4,Short video,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0077,2026-03-18,25-34,Al Dhaid,X,4,4,2,5,2,Short video,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0078,2026-03-19,45-54,Sharjah,X,1,1,5,4,3,Official statement,هل الصورة حديثة أم قديمة؟,English,true
+SUR-0079,2026-03-20,25-34,Al Dhaid,Government portal,4,1,2,2,4,Source card,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0080,2026-03-21,25-34,Kalba,WhatsApp,2,3,3,5,3,Explainer video,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0081,2026-03-22,35-44,Al Dhaid,WhatsApp,3,5,3,3,4,Source card,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,English,true
+SUR-0082,2026-03-23,18-24,UAE,Government portal,3,5,5,5,3,Source card,How do I find the original source?,Arabic,true
+SUR-0083,2026-03-24,35-44,Kalba,X,1,5,4,4,5,Short video,How do I find the original source?,Arabic,true
+SUR-0084,2026-03-25,18-24,Kalba,WhatsApp,2,4,4,1,5,Short video,How do I find the original source?,Arabic,true
+SUR-0085,2026-03-26,25-34,Khor Fakkan,Government portal,2,3,4,2,3,Infographic,هل الصورة حديثة أم قديمة؟,English,true
+SUR-0086,2026-03-27,18-24,Sharjah,Instagram,5,4,2,5,3,Q&A,Which official channel should I follow?,Arabic,true
+SUR-0087,2026-03-28,55+,Kalba,TikTok,1,3,4,4,3,Source card,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0088,2026-03-29,18-24,Kalba,TikTok,4,1,5,3,4,Official statement,How do I find the original source?,Arabic,true
+SUR-0089,2026-03-30,18-24,Sharjah,TikTok,2,1,5,5,3,Q&A,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0090,2026-03-31,35-44,Kalba,WhatsApp,3,3,3,2,5,Official statement,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0091,2026-04-01,25-34,UAE,TikTok,5,4,2,4,4,Source card,Which official channel should I follow?,Arabic,true
+SUR-0092,2026-04-02,18-24,Sharjah,Instagram,2,2,5,5,4,Explainer video,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0093,2026-04-03,45-54,UAE,YouTube,1,5,2,2,5,Q&A,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0094,2026-04-04,45-54,Al Dhaid,WhatsApp,5,3,3,4,3,Source card,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0095,2026-04-05,35-44,Khor Fakkan,Government portal,1,1,3,2,4,Explainer video,كيف أعرف الحساب الرسمي؟,English,true
+SUR-0096,2026-04-06,25-34,UAE,TikTok,3,4,5,2,3,Q&A,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0097,2026-04-07,25-34,Sharjah,Instagram,2,5,3,5,4,Official statement,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0098,2026-04-08,25-34,Khor Fakkan,WhatsApp,3,2,5,5,1,Source card,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0099,2026-04-09,35-44,Al Dhaid,Instagram,2,4,5,5,4,Official statement,هل الصورة حديثة أم قديمة؟,English,true
+SUR-0100,2026-04-10,18-24,Kalba,TikTok,1,2,3,1,4,Official statement,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0101,2026-04-11,55+,Sharjah,TikTok,2,5,5,3,5,Q&A,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,English,true
+SUR-0102,2026-04-12,45-54,Al Dhaid,YouTube,4,2,5,3,3,Explainer video,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0103,2026-04-13,25-34,UAE,Government portal,5,1,2,2,4,Source card,Which official channel should I follow?,Arabic,true
+SUR-0104,2026-04-14,18-24,Khor Fakkan,Government portal,4,3,5,3,3,Explainer video,هل يمكن التحقق من الفيديو بسرعة؟,English,true
+SUR-0105,2026-04-15,45-54,Al Dhaid,Instagram,5,4,4,3,5,Source card,Which official channel should I follow?,English,true
+SUR-0106,2026-04-16,25-34,Kalba,WhatsApp,5,2,5,3,3,Infographic,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0107,2026-04-17,35-44,Al Dhaid,Instagram,3,3,4,5,4,Infographic,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0108,2026-04-18,45-54,Kalba,TikTok,5,4,4,3,3,Infographic,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0109,2026-04-19,18-24,Kalba,WhatsApp,4,1,3,3,3,Short video,How do I find the original source?,Arabic,true
+SUR-0110,2026-04-20,45-54,Sharjah,TikTok,4,1,5,2,1,Q&A,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0111,2026-04-21,18-24,UAE,YouTube,4,3,4,1,4,Short video,هل يمكن التحقق من الفيديو بسرعة؟,English,true
+SUR-0112,2026-04-22,55+,Sharjah,Instagram,1,3,2,3,1,Short video,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0113,2026-04-23,18-24,UAE,YouTube,2,5,5,5,4,Official statement,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0114,2026-04-24,35-44,Al Dhaid,X,4,5,3,2,3,Q&A,هل الصورة حديثة أم قديمة؟,English,true
+SUR-0115,2026-04-25,35-44,UAE,WhatsApp,4,5,4,1,2,Official statement,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0116,2026-04-26,18-24,Kalba,Government portal,4,4,2,3,4,Explainer video,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0117,2026-04-27,45-54,Khor Fakkan,Government portal,5,3,3,5,4,Official statement,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0118,2026-04-28,45-54,Khor Fakkan,Government portal,2,4,3,2,4,Official statement,Which official channel should I follow?,Arabic,true
+SUR-0119,2026-04-29,45-54,Kalba,YouTube,4,3,2,3,4,Source card,Which official channel should I follow?,Arabic,true
+SUR-0120,2026-04-30,35-44,Kalba,YouTube,4,5,3,3,3,Explainer video,هل الصورة حديثة أم قديمة؟,English,true
+SUR-0121,2026-05-01,35-44,Kalba,WhatsApp,2,3,2,2,2,Short video,How do I find the original source?,Arabic,true
+SUR-0122,2026-05-02,18-24,Sharjah,YouTube,2,1,2,1,3,Short video,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0123,2026-05-03,45-54,Kalba,X,5,5,2,4,4,Official statement,Which official channel should I follow?,Arabic,true
+SUR-0124,2026-05-04,18-24,Kalba,Instagram,5,2,3,4,4,Infographic,Which official channel should I follow?,Arabic,true
+SUR-0125,2026-05-05,18-24,Khor Fakkan,X,4,2,2,3,3,Source card,Which official channel should I follow?,English,true
+SUR-0126,2026-05-06,45-54,Al Dhaid,Government portal,4,1,4,3,4,Short video,How do I find the original source?,English,true
+SUR-0127,2026-05-07,35-44,Al Dhaid,X,3,4,2,3,2,Explainer video,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0128,2026-05-08,55+,Sharjah,YouTube,3,4,3,2,3,Explainer video,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0129,2026-05-09,18-24,Al Dhaid,X,2,4,4,2,2,Explainer video,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0130,2026-05-10,35-44,Kalba,Government portal,1,2,2,1,4,Short video,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0131,2026-05-11,35-44,Kalba,X,1,3,5,2,3,Official statement,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0132,2026-05-12,45-54,Al Dhaid,Government portal,4,1,5,4,3,Infographic,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0133,2026-05-13,18-24,Khor Fakkan,X,3,5,4,2,4,Q&A,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,English,true
+SUR-0134,2026-05-14,25-34,Sharjah,Instagram,5,1,3,4,2,Source card,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0135,2026-05-15,55+,UAE,Instagram,2,3,2,1,2,Source card,هل يمكن التحقق من الفيديو بسرعة؟,English,true
+SUR-0136,2026-05-16,45-54,Al Dhaid,YouTube,2,3,2,3,4,Official statement,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0137,2026-05-17,35-44,Khor Fakkan,Government portal,2,5,5,2,5,Official statement,Which official channel should I follow?,English,true
+SUR-0138,2026-05-18,25-34,UAE,Government portal,1,3,2,2,1,Short video,Which official channel should I follow?,Arabic,true
+SUR-0139,2026-05-19,55+,Sharjah,Instagram,2,3,5,2,4,Source card,Which official channel should I follow?,English,true
+SUR-0140,2026-05-20,55+,Kalba,Instagram,1,1,5,1,3,Source card,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0141,2026-05-21,45-54,UAE,Instagram,1,1,4,1,1,Source card,هل يمكن التحقق من الفيديو بسرعة؟,English,true
+SUR-0142,2026-05-22,45-54,Sharjah,Government portal,4,4,3,4,1,Q&A,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0143,2026-05-23,35-44,UAE,TikTok,4,2,5,1,3,Source card,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0144,2026-05-24,18-24,Kalba,Government portal,5,2,2,3,2,Infographic,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0145,2026-05-25,25-34,Al Dhaid,Government portal,1,5,2,4,3,Explainer video,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0146,2026-05-26,35-44,Al Dhaid,TikTok,2,2,5,4,5,Infographic,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0147,2026-05-27,55+,Khor Fakkan,Government portal,2,3,5,5,5,Official statement,How do I find the original source?,Arabic,true
+SUR-0148,2026-05-28,55+,UAE,WhatsApp,4,2,4,1,4,Explainer video,كيف أعرف الحساب الرسمي؟,English,true
+SUR-0149,2026-05-29,55+,UAE,TikTok,1,2,3,2,4,Short video,How do I find the original source?,Arabic,true
+SUR-0150,2026-05-30,35-44,Sharjah,WhatsApp,4,5,4,3,2,Official statement,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0151,2026-05-31,18-24,Khor Fakkan,Government portal,4,1,2,3,1,Q&A,Which official channel should I follow?,Arabic,true
+SUR-0152,2026-06-01,35-44,Al Dhaid,X,2,3,5,4,5,Explainer video,Which official channel should I follow?,Arabic,true
+SUR-0153,2026-06-02,45-54,Khor Fakkan,TikTok,1,4,4,1,1,Q&A,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0154,2026-06-03,18-24,Khor Fakkan,YouTube,3,3,2,5,5,Explainer video,How do I find the original source?,Arabic,true
+SUR-0155,2026-06-04,55+,Al Dhaid,TikTok,1,1,2,5,4,Q&A,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0156,2026-06-05,35-44,Al Dhaid,Instagram,5,2,2,4,4,Q&A,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0157,2026-06-06,35-44,Sharjah,YouTube,3,5,2,4,2,Official statement,Which official channel should I follow?,English,true
+SUR-0158,2026-06-07,35-44,Kalba,Instagram,2,5,5,4,3,Infographic,كيف أعرف الحساب الرسمي؟,English,true
+SUR-0159,2026-06-08,45-54,Al Dhaid,Government portal,3,5,2,5,3,Source card,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0160,2026-06-09,25-34,Khor Fakkan,YouTube,4,3,4,3,5,Explainer video,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0161,2026-06-10,25-34,UAE,X,3,5,5,3,4,Explainer video,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0162,2026-06-11,25-34,UAE,X,5,3,3,3,4,Source card,Which official channel should I follow?,Arabic,true
+SUR-0163,2026-06-12,45-54,Al Dhaid,Instagram,1,2,2,3,5,Source card,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0164,2026-06-13,25-34,Kalba,Instagram,2,5,4,2,2,Source card,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0165,2026-06-14,18-24,Sharjah,WhatsApp,4,5,5,2,2,Official statement,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0166,2026-06-15,45-54,Al Dhaid,Instagram,2,5,2,4,3,Explainer video,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0167,2026-06-16,35-44,UAE,WhatsApp,2,3,5,5,1,Explainer video,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0168,2026-06-17,55+,UAE,X,3,5,4,2,4,Q&A,Which official channel should I follow?,Arabic,true
+SUR-0169,2026-06-18,18-24,Sharjah,TikTok,3,3,3,2,2,Official statement,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0170,2026-06-19,55+,Al Dhaid,YouTube,3,4,2,1,4,Official statement,How do I find the original source?,Arabic,true
+SUR-0171,2026-06-20,55+,Al Dhaid,Government portal,5,1,5,5,4,Infographic,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0172,2026-06-21,18-24,Al Dhaid,Instagram,5,1,4,5,4,Official statement,How do I find the original source?,Arabic,true
+SUR-0173,2026-06-22,18-24,Al Dhaid,WhatsApp,1,1,3,2,4,Source card,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0174,2026-06-23,55+,UAE,TikTok,4,5,3,4,2,Explainer video,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0175,2026-06-24,25-34,Khor Fakkan,WhatsApp,4,2,5,1,4,Q&A,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0176,2026-06-25,45-54,Sharjah,YouTube,5,4,4,5,4,Infographic,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0177,2026-06-26,35-44,Sharjah,TikTok,2,4,2,2,4,Infographic,كيف أعرف الحساب الرسمي؟,English,true
+SUR-0178,2026-06-27,18-24,Kalba,WhatsApp,3,4,2,5,5,Infographic,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0179,2026-06-28,35-44,UAE,TikTok,1,3,4,2,1,Infographic,How do I find the original source?,Arabic,true
+SUR-0180,2026-06-29,35-44,Khor Fakkan,Instagram,3,1,4,5,4,Official statement,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0181,2026-01-01,45-54,Kalba,X,4,5,4,3,3,Source card,Which official channel should I follow?,Arabic,true
+SUR-0182,2026-01-02,55+,Sharjah,TikTok,3,2,3,3,2,Q&A,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0183,2026-01-03,45-54,Sharjah,X,3,4,2,4,1,Infographic,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0184,2026-01-04,35-44,Khor Fakkan,WhatsApp,5,1,4,2,2,Source card,How do I find the original source?,English,true
+SUR-0185,2026-01-05,35-44,Al Dhaid,X,5,1,2,4,3,Short video,كيف أعرف الحساب الرسمي؟,English,true
+SUR-0186,2026-01-06,25-34,Kalba,X,5,2,4,5,5,Short video,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0187,2026-01-07,18-24,Al Dhaid,Government portal,3,3,5,2,2,Official statement,كيف أعرف الحساب الرسمي؟,English,true
+SUR-0188,2026-01-08,18-24,Kalba,Government portal,1,2,5,1,3,Source card,هل الصورة حديثة أم قديمة؟,English,true
+SUR-0189,2026-01-09,55+,Kalba,YouTube,5,2,3,5,3,Source card,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,English,true
+SUR-0190,2026-01-10,55+,UAE,YouTube,3,3,4,3,5,Short video,How do I find the original source?,Arabic,true
+SUR-0191,2026-01-11,55+,Khor Fakkan,X,3,4,5,1,3,Short video,Which official channel should I follow?,Arabic,true
+SUR-0192,2026-01-12,18-24,Khor Fakkan,YouTube,1,1,4,3,1,Source card,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0193,2026-01-13,25-34,Al Dhaid,Government portal,3,1,4,3,4,Explainer video,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0194,2026-01-14,18-24,UAE,TikTok,3,1,3,4,1,Source card,How do I find the original source?,Arabic,true
+SUR-0195,2026-01-15,45-54,Al Dhaid,Instagram,1,2,2,5,3,Infographic,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,English,true
+SUR-0196,2026-01-16,18-24,Sharjah,WhatsApp,4,2,5,5,5,Official statement,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0197,2026-01-17,35-44,UAE,TikTok,1,4,2,2,5,Explainer video,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0198,2026-01-18,55+,Sharjah,Instagram,1,4,4,1,1,Q&A,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0199,2026-01-19,55+,Sharjah,WhatsApp,3,3,5,1,1,Infographic,Which official channel should I follow?,Arabic,true
+SUR-0200,2026-01-20,25-34,Al Dhaid,YouTube,5,5,5,3,2,Official statement,كيف أعرف الحساب الرسمي؟,English,true
+SUR-0201,2026-01-21,25-34,Al Dhaid,WhatsApp,1,4,5,3,4,Explainer video,هل الصورة حديثة أم قديمة؟,English,true
+SUR-0202,2026-01-22,55+,Khor Fakkan,TikTok,1,4,4,3,2,Explainer video,How do I find the original source?,Arabic,true
+SUR-0203,2026-01-23,55+,Al Dhaid,YouTube,3,2,3,3,3,Short video,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0204,2026-01-24,18-24,Al Dhaid,YouTube,2,5,5,5,5,Short video,هل يمكن التحقق من الفيديو بسرعة؟,English,true
+SUR-0205,2026-01-25,45-54,Khor Fakkan,Instagram,2,2,2,4,4,Infographic,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0206,2026-01-26,35-44,UAE,Government portal,1,2,2,1,3,Explainer video,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0207,2026-01-27,35-44,Kalba,YouTube,2,1,5,3,2,Infographic,How do I find the original source?,Arabic,true
+SUR-0208,2026-01-28,35-44,UAE,Instagram,4,3,4,5,4,Infographic,How do I find the original source?,Arabic,true
+SUR-0209,2026-01-29,45-54,Khor Fakkan,YouTube,3,5,4,1,2,Source card,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,English,true
+SUR-0210,2026-01-30,45-54,Kalba,Instagram,1,1,5,1,3,Explainer video,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0211,2026-01-31,25-34,Khor Fakkan,Instagram,2,3,5,1,3,Q&A,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0212,2026-02-01,25-34,UAE,YouTube,5,2,3,2,5,Official statement,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0213,2026-02-02,45-54,Al Dhaid,WhatsApp,3,2,4,4,1,Infographic,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0214,2026-02-03,25-34,UAE,WhatsApp,2,4,2,1,4,Official statement,How do I find the original source?,Arabic,true
+SUR-0215,2026-02-04,35-44,UAE,WhatsApp,2,1,4,3,1,Short video,How do I find the original source?,Arabic,true
+SUR-0216,2026-02-05,35-44,Kalba,Instagram,3,4,5,5,5,Short video,Which official channel should I follow?,Arabic,true
+SUR-0217,2026-02-06,18-24,Kalba,WhatsApp,3,5,4,2,5,Infographic,Which official channel should I follow?,Arabic,true
+SUR-0218,2026-02-07,55+,Kalba,Instagram,3,3,2,2,1,Q&A,هل يمكن التحقق من الفيديو بسرعة؟,English,true
+SUR-0219,2026-02-08,18-24,Sharjah,X,5,2,2,2,4,Short video,هل يمكن التحقق من الفيديو بسرعة؟,English,true
+SUR-0220,2026-02-09,55+,Kalba,WhatsApp,3,1,5,5,2,Q&A,How do I find the original source?,Arabic,true
+SUR-0221,2026-02-10,45-54,Sharjah,YouTube,5,5,2,2,1,Explainer video,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0222,2026-02-11,55+,Khor Fakkan,Government portal,2,4,4,4,1,Infographic,Which official channel should I follow?,English,true
+SUR-0223,2026-02-12,25-34,Al Dhaid,X,4,4,4,3,4,Short video,Which official channel should I follow?,English,true
+SUR-0224,2026-02-13,18-24,Kalba,TikTok,1,3,4,1,5,Short video,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0225,2026-02-14,55+,Kalba,Government portal,1,2,5,5,1,Official statement,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0226,2026-02-15,35-44,Al Dhaid,Government portal,2,1,5,1,5,Short video,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0227,2026-02-16,45-54,Al Dhaid,WhatsApp,5,5,3,5,1,Official statement,Which official channel should I follow?,Arabic,true
+SUR-0228,2026-02-17,45-54,Al Dhaid,TikTok,2,3,4,4,3,Source card,How do I find the original source?,Arabic,true
+SUR-0229,2026-02-18,18-24,Kalba,Instagram,4,2,4,4,1,Short video,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,English,true
+SUR-0230,2026-02-19,35-44,Al Dhaid,X,4,3,3,3,2,Official statement,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0231,2026-02-20,35-44,Kalba,X,5,3,2,1,4,Infographic,كيف أعرف الحساب الرسمي؟,English,true
+SUR-0232,2026-02-21,45-54,Sharjah,TikTok,1,5,4,3,4,Source card,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0233,2026-02-22,45-54,Sharjah,Instagram,5,4,5,3,1,Source card,Which official channel should I follow?,English,true
+SUR-0234,2026-02-23,55+,UAE,X,3,1,4,1,5,Source card,Which official channel should I follow?,English,true
+SUR-0235,2026-02-24,55+,Sharjah,Government portal,1,1,5,2,4,Q&A,How do I find the original source?,English,true
+SUR-0236,2026-02-25,18-24,Al Dhaid,X,3,3,5,3,5,Explainer video,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0237,2026-02-26,18-24,Al Dhaid,Instagram,2,1,4,1,3,Q&A,كيف أعرف الحساب الرسمي؟,English,true
+SUR-0238,2026-02-27,18-24,Khor Fakkan,Instagram,5,4,3,4,4,Q&A,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0239,2026-02-28,55+,Al Dhaid,Instagram,5,2,4,4,2,Short video,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0240,2026-03-01,25-34,Al Dhaid,WhatsApp,5,1,3,1,5,Q&A,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0241,2026-03-02,18-24,Sharjah,Government portal,3,3,4,3,3,Explainer video,Which official channel should I follow?,Arabic,true
+SUR-0242,2026-03-03,45-54,Al Dhaid,Instagram,1,1,2,2,2,Short video,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0243,2026-03-04,35-44,UAE,WhatsApp,2,4,2,1,5,Q&A,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0244,2026-03-05,35-44,UAE,Government portal,3,2,4,4,1,Official statement,Which official channel should I follow?,Arabic,true
+SUR-0245,2026-03-06,18-24,Al Dhaid,Instagram,1,2,5,2,5,Short video,How do I find the original source?,English,true
+SUR-0246,2026-03-07,55+,Kalba,Government portal,5,4,2,1,4,Short video,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0247,2026-03-08,55+,Kalba,Instagram,1,3,3,4,3,Infographic,هل يمكن التحقق من الفيديو بسرعة؟,English,true
+SUR-0248,2026-03-09,35-44,UAE,Instagram,5,2,5,4,4,Q&A,Which official channel should I follow?,Arabic,true
+SUR-0249,2026-03-10,55+,UAE,Instagram,4,1,5,3,5,Infographic,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0250,2026-03-11,55+,Kalba,TikTok,4,4,4,1,1,Infographic,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0251,2026-03-12,35-44,Sharjah,X,1,1,5,3,5,Infographic,How do I find the original source?,Arabic,true
+SUR-0252,2026-03-13,45-54,Khor Fakkan,X,2,3,4,3,3,Infographic,How do I find the original source?,Arabic,true
+SUR-0253,2026-03-14,45-54,UAE,TikTok,5,1,5,5,5,Q&A,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0254,2026-03-15,18-24,Kalba,Instagram,3,5,3,3,4,Q&A,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0255,2026-03-16,35-44,Al Dhaid,X,3,4,4,4,5,Short video,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0256,2026-03-17,45-54,Sharjah,WhatsApp,1,5,5,4,4,Infographic,هل الصورة حديثة أم قديمة؟,English,true
+SUR-0257,2026-03-18,35-44,Al Dhaid,Government portal,5,5,5,4,4,Infographic,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,English,true
+SUR-0258,2026-03-19,55+,Al Dhaid,YouTube,5,1,3,1,1,Short video,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0259,2026-03-20,35-44,Al Dhaid,Government portal,2,2,3,2,4,Short video,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0260,2026-03-21,45-54,Khor Fakkan,Government portal,1,3,2,4,1,Q&A,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0261,2026-03-22,35-44,Kalba,Instagram,3,2,4,1,1,Infographic,Which official channel should I follow?,Arabic,true
+SUR-0262,2026-03-23,35-44,UAE,Government portal,2,3,4,5,3,Source card,هل يمكن التحقق من الفيديو بسرعة؟,English,true
+SUR-0263,2026-03-24,18-24,UAE,YouTube,4,3,4,5,3,Infographic,هل الصورة حديثة أم قديمة؟,English,true
+SUR-0264,2026-03-25,35-44,Kalba,WhatsApp,3,2,3,5,1,Short video,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0265,2026-03-26,55+,Sharjah,TikTok,5,5,4,2,4,Source card,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,English,true
+SUR-0266,2026-03-27,25-34,Al Dhaid,Government portal,2,4,4,3,1,Source card,هل يمكن التحقق من الفيديو بسرعة؟,English,true
+SUR-0267,2026-03-28,25-34,Sharjah,Instagram,5,5,2,5,4,Source card,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0268,2026-03-29,45-54,Kalba,YouTube,5,4,3,2,4,Official statement,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0269,2026-03-30,45-54,Sharjah,WhatsApp,4,1,4,1,3,Short video,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0270,2026-03-31,25-34,UAE,TikTok,3,1,2,5,1,Explainer video,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0271,2026-04-01,45-54,Al Dhaid,Instagram,4,3,2,2,4,Infographic,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0272,2026-04-02,45-54,Khor Fakkan,Instagram,2,3,3,2,4,Source card,How do I find the original source?,Arabic,true
+SUR-0273,2026-04-03,45-54,Kalba,WhatsApp,3,1,2,2,3,Source card,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0274,2026-04-04,25-34,UAE,X,3,5,5,2,5,Official statement,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0275,2026-04-05,55+,Sharjah,Instagram,2,2,3,3,4,Short video,Which official channel should I follow?,English,true
+SUR-0276,2026-04-06,45-54,Al Dhaid,YouTube,3,4,3,4,5,Short video,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0277,2026-04-07,18-24,UAE,TikTok,2,4,5,2,5,Q&A,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,English,true
+SUR-0278,2026-04-08,45-54,Khor Fakkan,Instagram,1,1,3,5,2,Infographic,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0279,2026-04-09,18-24,Kalba,X,1,4,2,2,4,Short video,How do I find the original source?,Arabic,true
+SUR-0280,2026-04-10,18-24,Khor Fakkan,Government portal,1,3,2,2,1,Q&A,How do I find the original source?,Arabic,true
+SUR-0281,2026-04-11,18-24,Sharjah,X,1,3,3,2,5,Source card,هل يمكن التحقق من الفيديو بسرعة؟,English,true
+SUR-0282,2026-04-12,35-44,Kalba,TikTok,1,4,2,2,3,Source card,Which official channel should I follow?,Arabic,true
+SUR-0283,2026-04-13,25-34,UAE,Government portal,1,2,3,3,5,Q&A,هل يمكن التحقق من الفيديو بسرعة؟,English,true
+SUR-0284,2026-04-14,55+,Kalba,TikTok,3,3,5,1,5,Official statement,How do I find the original source?,Arabic,true
+SUR-0285,2026-04-15,18-24,Khor Fakkan,X,3,1,5,1,2,Q&A,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0286,2026-04-16,35-44,Kalba,TikTok,1,1,3,4,2,Short video,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0287,2026-04-17,55+,Al Dhaid,WhatsApp,3,3,2,4,3,Short video,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0288,2026-04-18,45-54,Kalba,TikTok,5,2,5,1,4,Explainer video,كيف أعرف الحساب الرسمي؟,English,true
+SUR-0289,2026-04-19,55+,UAE,TikTok,4,1,3,4,5,Short video,How do I find the original source?,Arabic,true
+SUR-0290,2026-04-20,18-24,Kalba,TikTok,2,2,4,2,2,Infographic,هل الصورة حديثة أم قديمة؟,English,true
+SUR-0291,2026-04-21,55+,Sharjah,Government portal,1,1,3,4,3,Q&A,هل الصورة حديثة أم قديمة؟,Arabic,true
+SUR-0292,2026-04-22,55+,Khor Fakkan,YouTube,5,1,3,1,5,Infographic,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0293,2026-04-23,18-24,UAE,YouTube,1,4,5,5,5,Explainer video,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true
+SUR-0294,2026-04-24,18-24,Kalba,Government portal,2,3,3,5,4,Explainer video,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,English,true
+SUR-0295,2026-04-25,55+,Kalba,YouTube,4,4,2,5,1,Infographic,هل يمكن التحقق من الفيديو بسرعة؟,Arabic,true
+SUR-0296,2026-04-26,45-54,Sharjah,WhatsApp,2,3,3,4,3,Official statement,How do I find the original source?,English,true
+SUR-0297,2026-04-27,18-24,Khor Fakkan,YouTube,1,1,4,4,5,Official statement,هل يمكن التحقق من الفيديو بسرعة؟,English,true
+SUR-0298,2026-04-28,55+,Khor Fakkan,X,3,3,4,3,3,Q&A,كيف أعرف الحساب الرسمي؟,English,true
+SUR-0299,2026-04-29,45-54,Sharjah,Instagram,2,3,5,1,2,Source card,كيف أعرف الحساب الرسمي؟,Arabic,true
+SUR-0300,2026-04-30,35-44,UAE,YouTube,5,1,5,5,3,Source card,كيف أميز المحتوى المولد بالذكاء الاصطناعي؟,Arabic,true

@@ -1,0 +1,321 @@
+post_id,captured_at,platform,topic,public_text,language,location,inferred_audience,impressions,engagements,shares,comments,sentiment_score,source_verified
+SOC-0001,2026-01-01,Public forum,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,UAE,Parents,13405,2413,410,434,-0.25,true
+SOC-0002,2026-01-02,X,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Khor Fakkan,Professionals,2623,289,78,17,-0.67,true
+SOC-0003,2026-01-03,Public forum,official_sources,التوضيح الرسمي وصل بسرعة وذكر تفاصيل واضحة,ar,Khor Fakkan,Students,54071,4326,1298,1125,0.71,true
+SOC-0004,2026-01-04,Instagram,breaking_news,The news is urgent but has no link to a trusted source,en,Kalba,Professionals,55772,9481,3508,2370,-0.68,false
+SOC-0005,2026-01-05,TikTok,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,Al Dhaid,Youth,32429,3243,876,454,0.90,true
+SOC-0006,2026-01-06,TikTok,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,Al Dhaid,Students,2243,359,90,75,0.81,true
+SOC-0007,2026-01-07,YouTube,digital_literacy,The short verification steps are useful and actionable,en,Al Dhaid,Parents,13963,1117,190,201,0.93,true
+SOC-0008,2026-01-08,TikTok,trust,ذكر التاريخ والمصدر زاد ثقتي بالمعلومة,ar,Sharjah,Youth,57004,4560,684,1140,0.62,false
+SOC-0009,2026-01-09,Public forum,source_verification,كيف أتأكد من المصدر الأصلي قبل المشاركة؟,ar,Kalba,Youth,43881,3949,355,1066,0.45,false
+SOC-0010,2026-01-10,Public forum,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,Sharjah,Residents,19877,3578,465,966,0.71,true
+SOC-0011,2026-01-11,Instagram,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Kalba,Parents,14590,1021,225,214,-0.77,true
+SOC-0012,2026-01-12,Facebook,breaking_news,The news is urgent but has no link to a trusted source,en,Al Dhaid,Professionals,45166,8130,3089,2195,-0.54,true
+SOC-0013,2026-01-13,TikTok,source_verification,How can I verify the original source before sharing?,en,UAE,Professionals,50040,6505,2342,1431,0.41,true
+SOC-0014,2026-01-14,Facebook,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,UAE,Parents,11819,1891,265,284,-0.14,true
+SOC-0015,2026-01-15,Instagram,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,Khor Fakkan,Professionals,15902,2067,372,393,0.84,true
+SOC-0016,2026-01-16,X,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,Khor Fakkan,Parents,35067,5611,1234,1515,-0.31,false
+SOC-0017,2026-01-17,TikTok,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Kalba,Youth,17122,1883,339,471,-0.62,true
+SOC-0018,2026-01-18,Instagram,ai_content,Is this video authentic or AI-generated?,en,UAE,Residents,9827,1278,294,102,-0.09,true
+SOC-0019,2026-01-19,Facebook,ai_content,Is this video authentic or AI-generated?,en,Sharjah,Parents,53791,6993,2517,559,-0.30,false
+SOC-0020,2026-01-20,Facebook,source_verification,كيف أتأكد من المصدر الأصلي قبل المشاركة؟,ar,Al Dhaid,Parents,21197,2756,1130,220,0.45,false
+SOC-0021,2026-01-21,Public forum,misinformation,The image is real but its caption is misleading,en,Al Dhaid,Students,64055,4484,1390,673,-0.59,true
+SOC-0022,2026-01-22,Public forum,digital_literacy,The short verification steps are useful and actionable,en,Al Dhaid,Content creators,19297,386,100,73,0.77,true
+SOC-0023,2026-01-23,Facebook,source_verification,كيف أتأكد من المصدر الأصلي قبل المشاركة؟,ar,Khor Fakkan,Residents,28592,2573,592,412,0.41,true
+SOC-0024,2026-01-24,TikTok,misinformation,The image is real but its caption is misleading,en,UAE,Professionals,15414,1850,592,352,-0.56,true
+SOC-0025,2026-01-25,Instagram,official_sources,التوضيح الرسمي وصل بسرعة وذكر تفاصيل واضحة,ar,Al Dhaid,Youth,19231,1731,173,398,0.86,true
+SOC-0026,2026-01-26,Facebook,breaking_news,The news is urgent but has no link to a trusted source,en,Khor Fakkan,Youth,21086,2952,325,443,-0.57,false
+SOC-0027,2026-01-27,Instagram,rumor_control,يجب توضيح الإشاعة والرد عليها دون إعادة نشرها,ar,Sharjah,Residents,45747,6405,576,1665,0.23,false
+SOC-0028,2026-01-28,Facebook,rumor_control,يجب توضيح الإشاعة والرد عليها دون إعادة نشرها,ar,UAE,Professionals,59860,7782,3113,778,0.10,true
+SOC-0029,2026-01-29,Public forum,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Al Dhaid,Residents,43304,866,355,225,-0.66,true
+SOC-0030,2026-01-30,Instagram,official_sources,The official clarification arrived quickly and included clear details,en,Kalba,Students,23576,2593,596,130,0.70,true
+SOC-0031,2026-01-31,YouTube,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,Khor Fakkan,Youth,20227,1618,518,178,-0.22,false
+SOC-0032,2026-02-01,Public forum,trust,Including the date and source increased my trust,en,Kalba,Parents,65800,9212,737,1474,0.72,true
+SOC-0033,2026-02-02,Instagram,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Al Dhaid,Parents,61196,1836,349,129,-0.54,false
+SOC-0034,2026-02-03,YouTube,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,UAE,Professionals,38986,1949,273,175,-0.25,true
+SOC-0035,2026-02-04,X,rumor_control,يجب توضيح الإشاعة والرد عليها دون إعادة نشرها,ar,Kalba,Students,66471,7312,2925,1609,0.23,true
+SOC-0036,2026-02-05,Instagram,trust,Including the date and source increased my trust,en,Al Dhaid,Professionals,56225,5060,607,1214,0.62,true
+SOC-0037,2026-02-06,YouTube,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,Kalba,Content creators,13206,1056,243,158,-0.20,false
+SOC-0038,2026-02-07,TikTok,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Kalba,Parents,45106,7217,650,938,-0.60,true
+SOC-0039,2026-02-08,TikTok,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Al Dhaid,Content creators,31782,4132,1611,496,-0.49,true
+SOC-0040,2026-02-09,X,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Kalba,Content creators,33799,2366,355,426,-0.75,true
+SOC-0041,2026-02-10,TikTok,trust,ذكر التاريخ والمصدر زاد ثقتي بالمعلومة,ar,UAE,Content creators,19058,3049,732,457,0.69,false
+SOC-0042,2026-02-11,YouTube,rumor_control,يجب توضيح الإشاعة والرد عليها دون إعادة نشرها,ar,Sharjah,Residents,60365,1811,743,344,0.17,true
+SOC-0043,2026-02-12,TikTok,ai_content,Is this video authentic or AI-generated?,en,UAE,Parents,37564,6762,1893,1082,-0.33,true
+SOC-0044,2026-02-13,Public forum,rumor_control,يجب توضيح الإشاعة والرد عليها دون إعادة نشرها,ar,UAE,Youth,58403,3504,526,245,0.20,true
+SOC-0045,2026-02-14,Instagram,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Kalba,Youth,47745,5729,1776,802,-0.59,false
+SOC-0046,2026-02-15,X,official_sources,The official clarification arrived quickly and included clear details,en,Kalba,Youth,21863,2186,568,459,0.68,true
+SOC-0047,2026-02-16,Instagram,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,UAE,Parents,40617,6499,845,1625,0.68,true
+SOC-0048,2026-02-17,YouTube,official_sources,التوضيح الرسمي وصل بسرعة وذكر تفاصيل واضحة,ar,Sharjah,Residents,27011,4052,1621,203,0.80,true
+SOC-0049,2026-02-18,Facebook,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,UAE,Residents,1071,86,13,24,-0.13,false
+SOC-0050,2026-02-19,Instagram,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,Al Dhaid,Content creators,27187,2447,905,171,-0.23,false
+SOC-0051,2026-02-20,X,official_sources,التوضيح الرسمي وصل بسرعة وذكر تفاصيل واضحة,ar,Sharjah,Content creators,22880,915,119,220,0.77,true
+SOC-0052,2026-02-21,Public forum,rumor_control,يجب توضيح الإشاعة والرد عليها دون إعادة نشرها,ar,Al Dhaid,Residents,15615,468,164,47,0.04,true
+SOC-0053,2026-02-22,Public forum,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Kalba,Students,50231,8037,2491,723,-0.71,false
+SOC-0054,2026-02-23,Public forum,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,UAE,Residents,23935,3830,1417,460,-0.69,false
+SOC-0055,2026-02-24,Public forum,source_verification,كيف أتأكد من المصدر الأصلي قبل المشاركة؟,ar,Al Dhaid,Youth,36767,2574,412,721,0.33,true
+SOC-0056,2026-02-25,TikTok,rumor_control,يجب توضيح الإشاعة والرد عليها دون إعادة نشرها,ar,Khor Fakkan,Content creators,26885,2689,834,726,0.16,false
+SOC-0057,2026-02-26,Facebook,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,Kalba,Professionals,5663,906,353,136,-0.31,true
+SOC-0058,2026-02-27,X,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,Al Dhaid,Parents,30302,1515,485,152,0.69,true
+SOC-0059,2026-02-28,X,source_verification,How can I verify the original source before sharing?,en,Kalba,Professionals,46574,7918,1188,1504,0.37,true
+SOC-0060,2026-03-01,Public forum,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Al Dhaid,Students,3566,464,186,42,-0.62,false
+SOC-0061,2026-03-02,Public forum,rumor_control,The rumor should be clarified without amplifying it,en,Al Dhaid,Youth,32124,2249,382,630,0.13,true
+SOC-0062,2026-03-03,Facebook,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Kalba,Residents,19896,3382,1420,541,-0.41,false
+SOC-0063,2026-03-04,X,official_sources,التوضيح الرسمي وصل بسرعة وذكر تفاصيل واضحة,ar,Kalba,Content creators,45887,5048,2019,909,0.65,true
+SOC-0064,2026-03-05,Instagram,digital_literacy,The short verification steps are useful and actionable,en,UAE,Students,67595,6760,2704,879,0.96,true
+SOC-0065,2026-03-06,YouTube,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,Al Dhaid,Professionals,29548,4137,703,207,0.70,true
+SOC-0066,2026-03-07,Public forum,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Al Dhaid,Students,40728,1629,342,261,-0.77,false
+SOC-0067,2026-03-08,Facebook,rumor_control,يجب توضيح الإشاعة والرد عليها دون إعادة نشرها,ar,UAE,Content creators,19899,597,185,36,0.09,true
+SOC-0068,2026-03-09,X,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,UAE,Content creators,36163,2893,550,376,-0.21,true
+SOC-0069,2026-03-10,Facebook,trust,Including the date and source increased my trust,en,UAE,Students,41734,5008,751,250,0.77,false
+SOC-0070,2026-03-11,Facebook,source_verification,كيف أتأكد من المصدر الأصلي قبل المشاركة؟,ar,Kalba,Students,13443,2016,323,141,0.28,true
+SOC-0071,2026-03-12,Facebook,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Sharjah,Students,28411,4546,1682,1046,-0.66,true
+SOC-0072,2026-03-13,YouTube,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Khor Fakkan,Content creators,20434,1430,186,286,-0.49,true
+SOC-0073,2026-03-14,Public forum,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Sharjah,Youth,41786,5014,1404,852,-0.66,false
+SOC-0074,2026-03-15,X,digital_literacy,The short verification steps are useful and actionable,en,UAE,Youth,6024,783,290,55,0.92,true
+SOC-0075,2026-03-16,YouTube,source_verification,كيف أتأكد من المصدر الأصلي قبل المشاركة؟,ar,Al Dhaid,Parents,48282,8691,3476,1912,0.47,true
+SOC-0076,2026-03-17,Public forum,source_verification,How can I verify the original source before sharing?,en,Khor Fakkan,Students,58771,4114,1604,864,0.40,true
+SOC-0077,2026-03-18,Instagram,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Khor Fakkan,Residents,59418,8319,2413,1913,-0.60,false
+SOC-0078,2026-03-19,Public forum,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Al Dhaid,Residents,33533,1677,151,252,-0.61,false
+SOC-0079,2026-03-20,Facebook,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Al Dhaid,Parents,3534,177,73,14,-0.60,true
+SOC-0080,2026-03-21,Public forum,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Al Dhaid,Content creators,33525,2012,342,101,-0.43,true
+SOC-0081,2026-03-22,Facebook,official_sources,التوضيح الرسمي وصل بسرعة وذكر تفاصيل واضحة,ar,Al Dhaid,Residents,17258,2934,411,792,0.87,true
+SOC-0082,2026-03-23,Instagram,rumor_control,The rumor should be clarified without amplifying it,en,UAE,Professionals,35948,1797,503,449,0.15,false
+SOC-0083,2026-03-24,Public forum,rumor_control,The rumor should be clarified without amplifying it,en,Al Dhaid,Professionals,9673,193,77,25,0.13,false
+SOC-0084,2026-03-25,Public forum,rumor_control,يجب توضيح الإشاعة والرد عليها دون إعادة نشرها,ar,Kalba,Parents,51687,2584,801,491,0.23,true
+SOC-0085,2026-03-26,Instagram,official_sources,التوضيح الرسمي وصل بسرعة وذكر تفاصيل واضحة,ar,Sharjah,Students,52386,7334,2494,1760,0.74,true
+SOC-0086,2026-03-27,X,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,Khor Fakkan,Students,33944,6110,1833,917,0.68,true
+SOC-0087,2026-03-28,TikTok,official_sources,التوضيح الرسمي وصل بسرعة وذكر تفاصيل واضحة,ar,UAE,Students,31453,3774,604,415,0.80,true
+SOC-0088,2026-03-29,Instagram,digital_literacy,The short verification steps are useful and actionable,en,UAE,Professionals,67546,11483,2182,2526,0.94,true
+SOC-0089,2026-03-30,Instagram,rumor_control,The rumor should be clarified without amplifying it,en,UAE,Residents,17695,2477,248,619,0.30,true
+SOC-0090,2026-03-31,Facebook,ai_content,Is this video authentic or AI-generated?,en,Kalba,Residents,27278,1909,554,305,-0.36,false
+SOC-0091,2026-04-01,Instagram,source_verification,كيف أتأكد من المصدر الأصلي قبل المشاركة؟,ar,Kalba,Students,56891,3413,478,580,0.43,false
+SOC-0092,2026-04-02,Instagram,official_sources,التوضيح الرسمي وصل بسرعة وذكر تفاصيل واضحة,ar,Al Dhaid,Professionals,11712,1991,637,458,0.76,true
+SOC-0093,2026-04-03,Public forum,official_sources,The official clarification arrived quickly and included clear details,en,Kalba,Residents,42479,6797,952,1835,0.80,true
+SOC-0094,2026-04-04,X,source_verification,كيف أتأكد من المصدر الأصلي قبل المشاركة؟,ar,Sharjah,Students,65297,11100,1221,3108,0.35,true
+SOC-0095,2026-04-05,Public forum,source_verification,How can I verify the original source before sharing?,en,Sharjah,Youth,15810,1107,111,122,0.54,true
+SOC-0096,2026-04-06,Public forum,trust,ذكر التاريخ والمصدر زاد ثقتي بالمعلومة,ar,UAE,Professionals,9584,671,248,181,0.67,false
+SOC-0097,2026-04-07,Instagram,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Sharjah,Residents,14070,2533,937,127,-0.66,true
+SOC-0098,2026-04-08,Facebook,trust,ذكر التاريخ والمصدر زاد ثقتي بالمعلومة,ar,UAE,Youth,21461,1073,322,193,0.55,true
+SOC-0099,2026-04-09,Public forum,trust,ذكر التاريخ والمصدر زاد ثقتي بالمعلومة,ar,Sharjah,Youth,3549,390,140,55,0.68,false
+SOC-0100,2026-04-10,Instagram,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Khor Fakkan,Residents,15360,461,138,23,-0.52,false
+SOC-0101,2026-04-11,X,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Sharjah,Content creators,9640,578,139,139,-0.53,true
+SOC-0102,2026-04-12,TikTok,digital_literacy,The short verification steps are useful and actionable,en,Kalba,Parents,26838,1342,161,349,0.86,true
+SOC-0103,2026-04-13,TikTok,official_sources,التوضيح الرسمي وصل بسرعة وذكر تفاصيل واضحة,ar,Khor Fakkan,Parents,1104,66,21,7,0.65,true
+SOC-0104,2026-04-14,Instagram,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Sharjah,Residents,66263,3313,1325,199,-0.50,true
+SOC-0105,2026-04-15,X,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Al Dhaid,Youth,48546,1456,131,364,-0.70,false
+SOC-0106,2026-04-16,TikTok,trust,ذكر التاريخ والمصدر زاد ثقتي بالمعلومة,ar,UAE,Youth,51115,9201,2484,1932,0.82,true
+SOC-0107,2026-04-17,Facebook,digital_literacy,The short verification steps are useful and actionable,en,Kalba,Professionals,53472,9090,1636,2363,0.94,true
+SOC-0108,2026-04-18,Facebook,rumor_control,يجب توضيح الإشاعة والرد عليها دون إعادة نشرها,ar,Al Dhaid,Content creators,60517,3631,617,581,0.30,false
+SOC-0109,2026-04-19,Instagram,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,UAE,Students,31101,933,187,65,0.75,true
+SOC-0110,2026-04-20,TikTok,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,Khor Fakkan,Content creators,55755,8363,1422,1756,-0.21,true
+SOC-0111,2026-04-21,YouTube,source_verification,كيف أتأكد من المصدر الأصلي قبل المشاركة؟,ar,UAE,Students,49054,4415,574,795,0.36,false
+SOC-0112,2026-04-22,YouTube,breaking_news,The news is urgent but has no link to a trusted source,en,Al Dhaid,Content creators,46866,1406,576,169,-0.51,true
+SOC-0113,2026-04-23,Facebook,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,Al Dhaid,Content creators,62543,3753,826,450,0.68,true
+SOC-0114,2026-04-24,YouTube,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Kalba,Youth,15739,630,69,63,-0.68,false
+SOC-0115,2026-04-25,X,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Kalba,Professionals,41703,6672,534,1801,-0.55,false
+SOC-0116,2026-04-26,Instagram,source_verification,How can I verify the original source before sharing?,en,Sharjah,Residents,22316,446,45,45,0.44,false
+SOC-0117,2026-04-27,Facebook,source_verification,كيف أتأكد من المصدر الأصلي قبل المشاركة؟,ar,UAE,Residents,54183,3793,683,531,0.50,false
+SOC-0118,2026-04-28,Facebook,breaking_news,The news is urgent but has no link to a trusted source,en,Kalba,Content creators,66725,10676,3630,2883,-0.43,false
+SOC-0119,2026-04-29,TikTok,ai_content,Is this video authentic or AI-generated?,en,Sharjah,Youth,41111,5344,1817,1069,-0.18,false
+SOC-0120,2026-04-30,Facebook,misinformation,The image is real but its caption is misleading,en,Sharjah,Parents,19029,381,156,76,-0.63,false
+SOC-0121,2026-05-01,X,source_verification,كيف أتأكد من المصدر الأصلي قبل المشاركة؟,ar,Sharjah,Professionals,51485,4119,1236,494,0.29,true
+SOC-0122,2026-05-02,X,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Sharjah,Residents,34411,3785,757,492,-0.76,true
+SOC-0123,2026-05-03,Public forum,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,Sharjah,Content creators,36525,2192,351,153,-0.18,true
+SOC-0124,2026-05-04,Instagram,ai_content,Is this video authentic or AI-generated?,en,Al Dhaid,Content creators,47239,3307,331,694,-0.09,false
+SOC-0125,2026-05-05,YouTube,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,UAE,Professionals,4307,560,202,140,-0.30,false
+SOC-0126,2026-05-06,Facebook,official_sources,التوضيح الرسمي وصل بسرعة وذكر تفاصيل واضحة,ar,Khor Fakkan,Professionals,9006,1351,230,176,0.76,true
+SOC-0127,2026-05-07,Public forum,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,Sharjah,Youth,62790,8163,2286,1714,-0.16,false
+SOC-0128,2026-05-08,Facebook,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Al Dhaid,Professionals,25410,508,147,51,-0.62,false
+SOC-0129,2026-05-09,X,trust,ذكر التاريخ والمصدر زاد ثقتي بالمعلومة,ar,Al Dhaid,Professionals,4779,812,227,73,0.67,true
+SOC-0130,2026-05-10,X,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,UAE,Professionals,48261,965,232,154,-0.66,false
+SOC-0131,2026-05-11,TikTok,trust,ذكر التاريخ والمصدر زاد ثقتي بالمعلومة,ar,Al Dhaid,Professionals,16745,3014,754,271,0.72,true
+SOC-0132,2026-05-12,Instagram,ai_content,Is this video authentic or AI-generated?,en,Al Dhaid,Youth,3332,133,45,9,-0.30,false
+SOC-0133,2026-05-13,X,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,UAE,Students,42681,3841,1306,461,-0.45,true
+SOC-0134,2026-05-14,Instagram,source_verification,كيف أتأكد من المصدر الأصلي قبل المشاركة؟,ar,UAE,Content creators,33326,4999,1050,1050,0.28,false
+SOC-0135,2026-05-15,Public forum,source_verification,كيف أتأكد من المصدر الأصلي قبل المشاركة؟,ar,Sharjah,Students,41152,1235,420,272,0.40,false
+SOC-0136,2026-05-16,Instagram,trust,ذكر التاريخ والمصدر زاد ثقتي بالمعلومة,ar,Khor Fakkan,Parents,48490,4364,916,1047,0.66,true
+SOC-0137,2026-05-17,Instagram,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Khor Fakkan,Youth,46399,4176,1086,793,-0.51,true
+SOC-0138,2026-05-18,Public forum,rumor_control,يجب توضيح الإشاعة والرد عليها دون إعادة نشرها,ar,UAE,Youth,66216,3311,497,828,0.29,false
+SOC-0139,2026-05-19,Facebook,source_verification,كيف أتأكد من المصدر الأصلي قبل المشاركة؟,ar,Sharjah,Residents,48143,3370,1281,910,0.37,false
+SOC-0140,2026-05-20,Instagram,rumor_control,The rumor should be clarified without amplifying it,en,UAE,Parents,34818,1741,627,226,0.16,false
+SOC-0141,2026-05-21,TikTok,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Kalba,Parents,13710,1234,160,234,-0.60,false
+SOC-0142,2026-05-22,Instagram,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Khor Fakkan,Residents,45300,7248,1812,942,-0.52,false
+SOC-0143,2026-05-23,Public forum,source_verification,كيف أتأكد من المصدر الأصلي قبل المشاركة؟,ar,Kalba,Professionals,24439,1955,782,98,0.54,true
+SOC-0144,2026-05-24,Instagram,rumor_control,يجب توضيح الإشاعة والرد عليها دون إعادة نشرها,ar,Sharjah,Content creators,54423,5442,1197,1034,0.21,true
+SOC-0145,2026-05-25,Instagram,trust,Including the date and source increased my trust,en,Kalba,Professionals,24468,3181,445,668,0.82,false
+SOC-0146,2026-05-26,TikTok,breaking_news,The news is urgent but has no link to a trusted source,en,Khor Fakkan,Youth,53406,4272,812,256,-0.58,true
+SOC-0147,2026-05-27,Instagram,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Khor Fakkan,Students,67708,3385,372,305,-0.68,false
+SOC-0148,2026-05-28,Public forum,misinformation,The image is real but its caption is misleading,en,Khor Fakkan,Students,27979,5036,1360,906,-0.71,true
+SOC-0149,2026-05-29,Facebook,official_sources,التوضيح الرسمي وصل بسرعة وذكر تفاصيل واضحة,ar,Khor Fakkan,Youth,35452,2482,546,596,0.81,true
+SOC-0150,2026-05-30,Facebook,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,UAE,Parents,38310,6513,2345,1563,-0.18,true
+SOC-0151,2026-05-31,TikTok,official_sources,The official clarification arrived quickly and included clear details,en,Sharjah,Content creators,2242,45,15,9,0.62,true
+SOC-0152,2026-06-01,TikTok,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Sharjah,Content creators,18832,1130,192,79,-0.60,false
+SOC-0153,2026-06-02,X,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Kalba,Youth,4241,721,202,50,-0.47,true
+SOC-0154,2026-06-03,Public forum,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,UAE,Students,30171,4526,679,453,-0.60,false
+SOC-0155,2026-06-04,Facebook,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,Khor Fakkan,Students,31495,3150,662,252,0.76,true
+SOC-0156,2026-06-05,TikTok,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Khor Fakkan,Professionals,14852,1337,120,214,-0.62,true
+SOC-0157,2026-06-06,Instagram,source_verification,كيف أتأكد من المصدر الأصلي قبل المشاركة؟,ar,UAE,Residents,53815,5382,2153,592,0.36,false
+SOC-0158,2026-06-07,X,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Sharjah,Youth,36235,1087,359,304,-0.58,false
+SOC-0159,2026-06-08,Instagram,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,Khor Fakkan,Students,29566,1478,133,414,-0.10,false
+SOC-0160,2026-06-09,Public forum,official_sources,التوضيح الرسمي وصل بسرعة وذكر تفاصيل واضحة,ar,Al Dhaid,Residents,2962,474,52,95,0.71,true
+SOC-0161,2026-06-10,TikTok,breaking_news,The news is urgent but has no link to a trusted source,en,UAE,Professionals,52804,7393,2809,813,-0.60,true
+SOC-0162,2026-06-11,YouTube,source_verification,How can I verify the original source before sharing?,en,Kalba,Residents,12810,769,246,46,0.44,false
+SOC-0163,2026-06-12,Facebook,trust,Including the date and source increased my trust,en,UAE,Parents,57301,10314,2991,1857,0.82,false
+SOC-0164,2026-06-13,Public forum,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Kalba,Students,5759,864,95,173,-0.60,true
+SOC-0165,2026-06-14,X,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,Khor Fakkan,Youth,13313,932,298,130,-0.18,true
+SOC-0166,2026-06-15,Instagram,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,Sharjah,Professionals,2785,334,117,50,0.93,true
+SOC-0167,2026-06-16,X,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,Kalba,Parents,54526,8724,1047,785,-0.09,false
+SOC-0168,2026-06-17,YouTube,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,Kalba,Residents,17193,1719,602,189,-0.09,false
+SOC-0169,2026-06-18,Facebook,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,Sharjah,Professionals,46282,8331,2333,750,-0.08,true
+SOC-0170,2026-06-19,X,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,UAE,Residents,54791,8219,740,904,0.75,true
+SOC-0171,2026-06-20,YouTube,source_verification,How can I verify the original source before sharing?,en,Al Dhaid,Content creators,11904,476,52,67,0.49,true
+SOC-0172,2026-06-21,YouTube,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Sharjah,Students,67671,7444,2308,670,-0.67,true
+SOC-0173,2026-06-22,Facebook,digital_literacy,The short verification steps are useful and actionable,en,Sharjah,Content creators,16911,1184,403,272,0.74,true
+SOC-0174,2026-06-23,Public forum,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,UAE,Parents,15146,2272,545,318,-0.49,true
+SOC-0175,2026-06-24,Instagram,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,Kalba,Content creators,25841,1550,310,124,0.69,true
+SOC-0176,2026-06-25,YouTube,ai_content,Is this video authentic or AI-generated?,en,Kalba,Professionals,2476,149,25,9,-0.14,true
+SOC-0177,2026-06-26,TikTok,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,Sharjah,Content creators,12118,1818,527,182,0.84,true
+SOC-0178,2026-06-27,X,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Kalba,Content creators,18385,1839,405,257,-0.55,true
+SOC-0179,2026-06-28,Public forum,trust,Including the date and source increased my trust,en,Al Dhaid,Youth,55313,3319,332,266,0.81,true
+SOC-0180,2026-06-29,TikTok,breaking_news,The news is urgent but has no link to a trusted source,en,Kalba,Youth,22617,905,145,118,-0.64,true
+SOC-0181,2026-01-01,Public forum,trust,Including the date and source increased my trust,en,UAE,Professionals,33672,3030,303,394,0.67,true
+SOC-0182,2026-01-02,YouTube,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Sharjah,Parents,9959,398,92,20,-0.75,true
+SOC-0183,2026-01-03,TikTok,source_verification,كيف أتأكد من المصدر الأصلي قبل المشاركة؟,ar,Sharjah,Content creators,38200,4966,1242,844,0.40,false
+SOC-0184,2026-01-04,Facebook,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,UAE,Parents,13355,1068,288,53,-0.21,true
+SOC-0185,2026-01-05,YouTube,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Al Dhaid,Residents,57035,3422,650,513,-0.70,false
+SOC-0186,2026-01-06,Instagram,rumor_control,يجب توضيح الإشاعة والرد عليها دون إعادة نشرها,ar,Khor Fakkan,Content creators,50591,5565,1280,334,0.04,false
+SOC-0187,2026-01-07,X,trust,ذكر التاريخ والمصدر زاد ثقتي بالمعلومة,ar,Al Dhaid,Students,26630,533,43,101,0.56,false
+SOC-0188,2026-01-08,X,digital_literacy,The short verification steps are useful and actionable,en,Sharjah,Parents,46955,3287,559,756,0.82,true
+SOC-0189,2026-01-09,Facebook,trust,ذكر التاريخ والمصدر زاد ثقتي بالمعلومة,ar,Sharjah,Youth,33756,2363,236,213,0.77,false
+SOC-0190,2026-01-10,TikTok,trust,ذكر التاريخ والمصدر زاد ثقتي بالمعلومة,ar,UAE,Content creators,11070,1218,451,280,0.70,true
+SOC-0191,2026-01-11,X,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Sharjah,Parents,51233,8197,2623,1230,-0.59,true
+SOC-0192,2026-01-12,YouTube,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Sharjah,Students,8828,1148,356,310,-0.50,true
+SOC-0193,2026-01-13,YouTube,source_verification,كيف أتأكد من المصدر الأصلي قبل المشاركة؟,ar,Sharjah,Youth,65255,1305,418,300,0.34,true
+SOC-0194,2026-01-14,X,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Kalba,Parents,12297,1845,424,166,-0.62,false
+SOC-0195,2026-01-15,Instagram,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,Sharjah,Parents,14977,749,135,142,-0.35,true
+SOC-0196,2026-01-16,Public forum,breaking_news,The news is urgent but has no link to a trusted source,en,Kalba,Youth,67691,4061,487,325,-0.65,true
+SOC-0197,2026-01-17,X,source_verification,كيف أتأكد من المصدر الأصلي قبل المشاركة؟,ar,UAE,Content creators,45302,1359,313,381,0.49,true
+SOC-0198,2026-01-18,Instagram,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,UAE,Residents,35335,6007,1261,601,-0.22,true
+SOC-0199,2026-01-19,TikTok,official_sources,التوضيح الرسمي وصل بسرعة وذكر تفاصيل واضحة,ar,Sharjah,Content creators,16279,2767,692,609,0.63,true
+SOC-0200,2026-01-20,Instagram,breaking_news,The news is urgent but has no link to a trusted source,en,Sharjah,Content creators,52958,6355,1335,508,-0.60,true
+SOC-0201,2026-01-21,Facebook,official_sources,التوضيح الرسمي وصل بسرعة وذكر تفاصيل واضحة,ar,Sharjah,Residents,53084,7963,956,1672,0.70,true
+SOC-0202,2026-01-22,Public forum,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Sharjah,Parents,56838,4547,546,591,-0.41,true
+SOC-0203,2026-01-23,X,source_verification,كيف أتأكد من المصدر الأصلي قبل المشاركة؟,ar,Kalba,Students,35309,4943,1236,692,0.52,false
+SOC-0204,2026-01-24,Facebook,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,Al Dhaid,Parents,23507,940,179,75,0.85,true
+SOC-0205,2026-01-25,Facebook,official_sources,The official clarification arrived quickly and included clear details,en,Al Dhaid,Students,12862,643,154,148,0.86,true
+SOC-0206,2026-01-26,YouTube,official_sources,التوضيح الرسمي وصل بسرعة وذكر تفاصيل واضحة,ar,Khor Fakkan,Youth,57953,9852,2562,2364,0.83,true
+SOC-0207,2026-01-27,X,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,UAE,Parents,57933,8690,3128,956,-0.35,true
+SOC-0208,2026-01-28,YouTube,official_sources,التوضيح الرسمي وصل بسرعة وذكر تفاصيل واضحة,ar,UAE,Youth,16888,2533,861,405,0.83,true
+SOC-0209,2026-01-29,YouTube,trust,ذكر التاريخ والمصدر زاد ثقتي بالمعلومة,ar,Khor Fakkan,Professionals,27042,541,227,119,0.56,true
+SOC-0210,2026-01-30,X,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,Al Dhaid,Parents,55444,1663,599,216,-0.35,false
+SOC-0211,2026-01-31,Instagram,trust,Including the date and source increased my trust,en,Khor Fakkan,Content creators,54490,8174,2452,1308,0.61,false
+SOC-0212,2026-02-01,TikTok,official_sources,التوضيح الرسمي وصل بسرعة وذكر تفاصيل واضحة,ar,UAE,Residents,58355,10504,3781,1576,0.87,true
+SOC-0213,2026-02-02,TikTok,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,Sharjah,Professionals,10540,211,30,38,-0.16,true
+SOC-0214,2026-02-03,YouTube,rumor_control,يجب توضيح الإشاعة والرد عليها دون إعادة نشرها,ar,Al Dhaid,Residents,34805,696,251,111,0.06,true
+SOC-0215,2026-02-04,Public forum,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,Kalba,Content creators,41330,7026,1265,1546,0.71,true
+SOC-0216,2026-02-05,Instagram,rumor_control,يجب توضيح الإشاعة والرد عليها دون إعادة نشرها,ar,Khor Fakkan,Parents,4515,271,100,16,0.04,true
+SOC-0217,2026-02-06,YouTube,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,Sharjah,Content creators,7709,1233,345,160,0.72,true
+SOC-0218,2026-02-07,Instagram,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,UAE,Residents,55434,8869,3459,1774,0.77,true
+SOC-0219,2026-02-08,TikTok,ai_content,Is this video authentic or AI-generated?,en,Al Dhaid,Residents,47956,5275,1688,1108,-0.27,true
+SOC-0220,2026-02-09,Instagram,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,Sharjah,Content creators,41718,2086,501,188,-0.18,false
+SOC-0221,2026-02-10,YouTube,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,UAE,Students,16723,1171,117,94,-0.71,false
+SOC-0222,2026-02-11,YouTube,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,UAE,Residents,41121,3290,1053,855,-0.68,false
+SOC-0223,2026-02-12,Facebook,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,Kalba,Professionals,26988,2429,704,510,0.78,true
+SOC-0224,2026-02-13,X,source_verification,How can I verify the original source before sharing?,en,UAE,Students,55157,1103,309,66,0.28,false
+SOC-0225,2026-02-14,Instagram,official_sources,The official clarification arrived quickly and included clear details,en,UAE,Professionals,54477,4903,1814,932,0.90,true
+SOC-0226,2026-02-15,Facebook,trust,ذكر التاريخ والمصدر زاد ثقتي بالمعلومة,ar,Khor Fakkan,Professionals,7248,145,61,35,0.73,true
+SOC-0227,2026-02-16,Instagram,official_sources,The official clarification arrived quickly and included clear details,en,Khor Fakkan,Content creators,51876,1556,622,249,0.84,true
+SOC-0228,2026-02-17,TikTok,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Kalba,Content creators,26780,3481,1253,278,-0.57,false
+SOC-0229,2026-02-18,Public forum,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,Kalba,Parents,51000,4590,1010,597,-0.25,true
+SOC-0230,2026-02-19,YouTube,source_verification,كيف أتأكد من المصدر الأصلي قبل المشاركة؟,ar,Sharjah,Students,23270,3723,372,484,0.32,true
+SOC-0231,2026-02-20,TikTok,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,Khor Fakkan,Content creators,45811,3207,834,641,0.83,true
+SOC-0232,2026-02-21,Instagram,rumor_control,يجب توضيح الإشاعة والرد عليها دون إعادة نشرها,ar,Kalba,Parents,8342,1251,163,313,0.20,false
+SOC-0233,2026-02-22,Public forum,trust,Including the date and source increased my trust,en,Sharjah,Content creators,53880,9698,2328,2037,0.70,true
+SOC-0234,2026-02-23,Facebook,misinformation,The image is real but its caption is misleading,en,Al Dhaid,Parents,59518,10118,1012,2024,-0.69,false
+SOC-0235,2026-02-24,Instagram,rumor_control,يجب توضيح الإشاعة والرد عليها دون إعادة نشرها,ar,Al Dhaid,Residents,14452,2457,713,442,0.07,false
+SOC-0236,2026-02-25,X,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,Kalba,Content creators,7917,713,93,150,0.90,true
+SOC-0237,2026-02-26,Public forum,source_verification,كيف أتأكد من المصدر الأصلي قبل المشاركة؟,ar,Sharjah,Residents,22750,683,246,34,0.53,false
+SOC-0238,2026-02-27,Facebook,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Kalba,Youth,44483,890,320,169,-0.49,true
+SOC-0239,2026-02-28,Instagram,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,UAE,Content creators,20043,1203,301,72,-0.79,false
+SOC-0240,2026-03-01,TikTok,digital_literacy,The short verification steps are useful and actionable,en,Sharjah,Residents,47883,3831,1149,460,0.67,true
+SOC-0241,2026-03-02,YouTube,official_sources,التوضيح الرسمي وصل بسرعة وذكر تفاصيل واضحة,ar,UAE,Content creators,67693,4062,934,772,0.68,true
+SOC-0242,2026-03-03,Instagram,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,Sharjah,Professionals,20104,2614,1098,288,0.88,true
+SOC-0243,2026-03-04,TikTok,trust,Including the date and source increased my trust,en,Sharjah,Youth,59170,2367,781,663,0.69,true
+SOC-0244,2026-03-05,TikTok,official_sources,التوضيح الرسمي وصل بسرعة وذكر تفاصيل واضحة,ar,Al Dhaid,Students,28367,5106,817,664,0.70,true
+SOC-0245,2026-03-06,YouTube,official_sources,The official clarification arrived quickly and included clear details,en,Sharjah,Students,8249,412,45,74,0.88,true
+SOC-0246,2026-03-07,Facebook,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Sharjah,Professionals,14073,1267,380,89,-0.61,true
+SOC-0247,2026-03-08,TikTok,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,Sharjah,Youth,31791,5087,1170,509,0.71,true
+SOC-0248,2026-03-09,X,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,UAE,Residents,58260,2913,699,437,-0.72,true
+SOC-0249,2026-03-10,Facebook,trust,Including the date and source increased my trust,en,Khor Fakkan,Parents,33201,2988,687,807,0.74,false
+SOC-0250,2026-03-11,X,official_sources,The official clarification arrived quickly and included clear details,en,Kalba,Students,30302,1212,400,121,0.74,true
+SOC-0251,2026-03-12,YouTube,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,UAE,Youth,67550,12159,3526,1945,-0.31,false
+SOC-0252,2026-03-13,YouTube,source_verification,How can I verify the original source before sharing?,en,Sharjah,Content creators,42645,7676,1075,1919,0.37,true
+SOC-0253,2026-03-14,Public forum,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,UAE,Residents,8162,1469,353,279,0.77,true
+SOC-0254,2026-03-15,Facebook,source_verification,كيف أتأكد من المصدر الأصلي قبل المشاركة؟,ar,UAE,Content creators,25018,4253,936,723,0.57,true
+SOC-0255,2026-03-16,Instagram,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,Kalba,Parents,15643,939,85,197,-0.16,false
+SOC-0256,2026-03-17,Public forum,ai_content,Is this video authentic or AI-generated?,en,UAE,Residents,42179,3374,675,911,-0.31,true
+SOC-0257,2026-03-18,Instagram,trust,ذكر التاريخ والمصدر زاد ثقتي بالمعلومة,ar,Kalba,Professionals,32877,3616,362,759,0.65,true
+SOC-0258,2026-03-19,YouTube,official_sources,التوضيح الرسمي وصل بسرعة وذكر تفاصيل واضحة,ar,Al Dhaid,Students,54885,1098,198,285,0.83,true
+SOC-0259,2026-03-20,Facebook,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,Sharjah,Professionals,25681,4109,1438,1151,-0.12,false
+SOC-0260,2026-03-21,Public forum,trust,ذكر التاريخ والمصدر زاد ثقتي بالمعلومة,ar,Khor Fakkan,Content creators,29249,1462,585,336,0.64,true
+SOC-0261,2026-03-22,Instagram,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,UAE,Residents,3777,151,44,11,-0.69,false
+SOC-0262,2026-03-23,X,rumor_control,يجب توضيح الإشاعة والرد عليها دون إعادة نشرها,ar,Kalba,Content creators,25612,2817,761,225,0.32,false
+SOC-0263,2026-03-24,Instagram,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,UAE,Youth,16650,2331,350,443,0.66,true
+SOC-0264,2026-03-25,Public forum,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Sharjah,Residents,46413,7426,2228,1188,-0.57,false
+SOC-0265,2026-03-26,Facebook,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Khor Fakkan,Professionals,27621,1381,428,276,-0.51,false
+SOC-0266,2026-03-27,X,source_verification,كيف أتأكد من المصدر الأصلي قبل المشاركة؟,ar,Sharjah,Youth,2208,221,46,55,0.45,true
+SOC-0267,2026-03-28,TikTok,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,Khor Fakkan,Students,30115,903,144,181,0.80,true
+SOC-0268,2026-03-29,Facebook,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,UAE,Content creators,54583,7096,1703,1845,-0.72,true
+SOC-0269,2026-03-30,Instagram,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Khor Fakkan,Parents,2520,126,18,26,-0.53,true
+SOC-0270,2026-03-31,Public forum,official_sources,التوضيح الرسمي وصل بسرعة وذكر تفاصيل واضحة,ar,UAE,Professionals,1737,261,73,42,0.67,true
+SOC-0271,2026-04-01,Facebook,official_sources,التوضيح الرسمي وصل بسرعة وذكر تفاصيل واضحة,ar,Sharjah,Residents,61785,8032,1205,643,0.72,true
+SOC-0272,2026-04-02,Instagram,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,Sharjah,Professionals,34233,4793,1198,1246,0.82,true
+SOC-0273,2026-04-03,YouTube,trust,ذكر التاريخ والمصدر زاد ثقتي بالمعلومة,ar,Khor Fakkan,Youth,45194,7231,2242,1157,0.76,false
+SOC-0274,2026-04-04,Public forum,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,Khor Fakkan,Content creators,54655,5466,1640,656,0.81,true
+SOC-0275,2026-04-05,YouTube,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,Al Dhaid,Professionals,32368,4532,1133,227,-0.28,true
+SOC-0276,2026-04-06,Facebook,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,UAE,Youth,24501,2940,853,265,-0.11,true
+SOC-0277,2026-04-07,Public forum,source_verification,كيف أتأكد من المصدر الأصلي قبل المشاركة؟,ar,Khor Fakkan,Professionals,36407,5825,1049,757,0.53,false
+SOC-0278,2026-04-08,Public forum,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Al Dhaid,Residents,56177,1685,270,303,-0.49,true
+SOC-0279,2026-04-09,Public forum,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Sharjah,Content creators,19527,1367,506,164,-0.58,false
+SOC-0280,2026-04-10,Public forum,source_verification,How can I verify the original source before sharing?,en,Kalba,Youth,40853,2451,1029,147,0.41,false
+SOC-0281,2026-04-11,Facebook,rumor_control,يجب توضيح الإشاعة والرد عليها دون إعادة نشرها,ar,Al Dhaid,Residents,50297,4527,1041,634,0.05,true
+SOC-0282,2026-04-12,Public forum,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,Khor Fakkan,Youth,43024,2581,490,361,-0.37,true
+SOC-0283,2026-04-13,Public forum,misinformation,The image is real but its caption is misleading,en,UAE,Youth,7026,984,295,49,-0.56,false
+SOC-0284,2026-04-14,Public forum,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Khor Fakkan,Content creators,65912,5273,2109,896,-0.65,false
+SOC-0285,2026-04-15,TikTok,ai_content,Is this video authentic or AI-generated?,en,Al Dhaid,Youth,66088,11235,2135,2247,-0.33,false
+SOC-0286,2026-04-16,YouTube,ai_content,Is this video authentic or AI-generated?,en,Kalba,Youth,55194,2760,828,386,-0.31,true
+SOC-0287,2026-04-17,X,trust,ذكر التاريخ والمصدر زاد ثقتي بالمعلومة,ar,Kalba,Parents,52444,4720,1794,1227,0.75,false
+SOC-0288,2026-04-18,Instagram,official_sources,التوضيح الرسمي وصل بسرعة وذكر تفاصيل واضحة,ar,Sharjah,Parents,62398,8112,2596,1460,0.82,true
+SOC-0289,2026-04-19,X,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Kalba,Students,19943,1795,431,359,-0.69,false
+SOC-0290,2026-04-20,X,source_verification,كيف أتأكد من المصدر الأصلي قبل المشاركة؟,ar,UAE,Youth,49747,2487,423,249,0.46,false
+SOC-0291,2026-04-21,X,digital_literacy,The short verification steps are useful and actionable,en,Khor Fakkan,Students,64436,7088,992,567,0.72,true
+SOC-0292,2026-04-22,Public forum,breaking_news,The news is urgent but has no link to a trusted source,en,Kalba,Youth,65738,1315,329,145,-0.69,true
+SOC-0293,2026-04-23,Public forum,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,Kalba,Youth,60915,9137,2832,457,0.90,true
+SOC-0294,2026-04-24,TikTok,rumor_control,The rumor should be clarified without amplifying it,en,UAE,Residents,28544,4852,1456,1164,0.13,true
+SOC-0295,2026-04-25,YouTube,trust,ذكر التاريخ والمصدر زاد ثقتي بالمعلومة,ar,UAE,Content creators,16874,2700,594,675,0.54,true
+SOC-0296,2026-04-26,Public forum,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Al Dhaid,Youth,35564,1067,235,235,-0.50,true
+SOC-0297,2026-04-27,X,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,Sharjah,Youth,43164,2590,984,699,-0.14,true
+SOC-0298,2026-04-28,Facebook,rumor_control,يجب توضيح الإشاعة والرد عليها دون إعادة نشرها,ar,Al Dhaid,Residents,28087,5056,404,607,0.12,true
+SOC-0299,2026-04-29,Instagram,official_sources,التوضيح الرسمي وصل بسرعة وذكر تفاصيل واضحة,ar,Al Dhaid,Students,29447,4123,701,577,0.88,true
+SOC-0300,2026-04-30,Instagram,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,UAE,Youth,65152,8470,1609,762,-0.45,false
+SOC-0301,2026-05-01,TikTok,misinformation,The image is real but its caption is misleading,en,Sharjah,Residents,35969,3597,647,576,-0.70,false
+SOC-0302,2026-05-02,Facebook,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,Al Dhaid,Students,22799,3420,342,821,-0.67,true
+SOC-0303,2026-05-03,YouTube,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Al Dhaid,Residents,64320,9005,2431,720,-0.60,false
+SOC-0304,2026-05-04,Facebook,source_verification,كيف أتأكد من المصدر الأصلي قبل المشاركة؟,ar,Al Dhaid,Parents,5601,896,143,206,0.39,true
+SOC-0305,2026-05-05,TikTok,misinformation,هذه الصورة صحيحة لكن الوصف المرفق بها مضلل,ar,Kalba,Youth,67644,7441,1786,1935,-0.51,true
+SOC-0306,2026-05-06,X,ai_content,Is this video authentic or AI-generated?,en,Khor Fakkan,Content creators,42799,3852,847,347,-0.16,false
+SOC-0307,2026-05-07,YouTube,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,Sharjah,Content creators,49578,3470,1076,243,0.72,true
+SOC-0308,2026-05-08,X,rumor_control,The rumor should be clarified without amplifying it,en,Kalba,Residents,20011,1601,496,112,0.33,true
+SOC-0309,2026-05-09,Facebook,rumor_control,يجب توضيح الإشاعة والرد عليها دون إعادة نشرها,ar,Al Dhaid,Parents,59329,1187,309,332,0.27,false
+SOC-0310,2026-05-10,Facebook,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,Khor Fakkan,Parents,64886,10382,4153,2699,-0.35,false
+SOC-0311,2026-05-11,Public forum,official_sources,التوضيح الرسمي وصل بسرعة وذكر تفاصيل واضحة,ar,Sharjah,Parents,29894,4484,1345,897,0.75,true
+SOC-0312,2026-05-12,Public forum,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,UAE,Parents,51878,6744,2158,1551,0.90,true
+SOC-0313,2026-05-13,TikTok,ai_content,هل هذا الفيديو حقيقي أم مولد بالذكاء الاصطناعي؟,ar,Al Dhaid,Residents,59126,8869,798,1774,-0.22,false
+SOC-0314,2026-05-14,TikTok,ai_content,Is this video authentic or AI-generated?,en,Sharjah,Professionals,48858,3420,410,616,-0.24,true
+SOC-0315,2026-05-15,Instagram,trust,Including the date and source increased my trust,en,Al Dhaid,Residents,43684,6989,1468,1328,0.81,false
+SOC-0316,2026-05-16,Instagram,breaking_news,الخبر عاجل لكن لا يوجد رابط لمصدر موثوق,ar,UAE,Content creators,38074,3046,1188,609,-0.68,false
+SOC-0317,2026-05-17,Facebook,rumor_control,يجب توضيح الإشاعة والرد عليها دون إعادة نشرها,ar,Sharjah,Professionals,8941,1162,116,256,0.04,false
+SOC-0318,2026-05-18,TikTok,source_verification,How can I verify the original source before sharing?,en,Khor Fakkan,Parents,5165,155,19,9,0.33,true
+SOC-0319,2026-05-19,YouTube,breaking_news,The news is urgent but has no link to a trusted source,en,Khor Fakkan,Content creators,38098,3048,1250,823,-0.64,true
+SOC-0320,2026-05-20,X,digital_literacy,خطوات التحقق المختصرة مفيدة وسهلة التطبيق,ar,Al Dhaid,Students,51290,1026,339,92,0.80,true
