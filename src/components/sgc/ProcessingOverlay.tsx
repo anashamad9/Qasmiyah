@@ -28,7 +28,7 @@ export function ProcessingOverlay({
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-background/85 backdrop-blur-sm">
-      <div className="w-[min(420px,90vw)] rounded-lg border border-border bg-card p-6 text-center">
+      <div className="w-[min(420px,90vw)] rounded-2xl border border-border bg-card p-6 text-center">
         <BrandMark size={52} className="mx-auto animate-pulse" />
         <p className="mt-4 text-sm font-medium text-foreground">{steps[index]}</p>
         <div className="mt-4 h-1 w-full overflow-hidden rounded-full bg-muted">

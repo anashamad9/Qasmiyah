@@ -136,7 +136,7 @@ export function Panel({
   const displayFootnote = language === "en" ? (footnoteEn ?? footnote) : footnote;
 
   return (
-    <section className={cn("rounded-lg border border-border bg-card p-5", className)}>
+    <section className={cn("rounded-xl border border-border bg-card p-5", className)}>
       {displayTitle ? (
         <header className="mb-4">
           <div className="flex items-center gap-2">
@@ -186,7 +186,7 @@ export function KpiCard({
   const displayValue = language === "ar" && value === "Prototype" ? "نموذج أولي" : value;
 
   return (
-    <div className="rounded-lg border border-border bg-card p-4">
+    <div className="rounded-xl border border-border bg-card p-4">
       <p className="text-xs text-muted-foreground">{primaryLabel}</p>
       {secondaryLabel ? (
         <p className="text-[10.5px] text-muted-foreground/70">{secondaryLabel}</p>

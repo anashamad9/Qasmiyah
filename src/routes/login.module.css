@@ -1,0 +1,654 @@
+.page {
+  --background: oklch(0.985 0.008 85);
+  --foreground: oklch(0.26 0.021 60);
+  --card: oklch(0.997 0.003 85);
+  --primary: oklch(0.665 0.122 68);
+  --secondary: oklch(0.955 0.014 85);
+  --border: oklch(0.89 0.008 82);
+  --muted-foreground: oklch(0.52 0.026 62);
+  position: relative;
+  isolation: isolate;
+  display: grid;
+  grid-template-columns: minmax(0, 66fr) minmax(0, 34fr);
+  gap: 0;
+  align-items: center;
+  padding: 0;
+  min-height: 100svh;
+  direction: ltr;
+  background: var(--background);
+  color: var(--foreground);
+  font-family: "IBM Plex Sans Arabic", ui-sans-serif, system-ui, sans-serif;
+  font-size: 14px;
+  line-height: 1.7;
+  font-synthesis: none;
+}
+.page svg {
+  stroke-width: 1.5;
+  flex-shrink: 0;
+}
+.page :is(h1, h2, p, button, label, small, span) {
+  letter-spacing: normal;
+}
+.backdrop {
+  position: absolute;
+  inset: 0;
+  width: 66%;
+  border-bottom-right-radius: 40% 22%;
+  background: oklch(0.23 0.027 60);
+  z-index: -1;
+  overflow: hidden;
+  pointer-events: none;
+}
+.page a {
+  text-decoration: none;
+}
+.page button {
+  cursor: pointer;
+}
+.page button:disabled {
+  cursor: wait;
+  opacity: 0.65;
+}
+.page a:focus-visible,
+.page button:focus-visible,
+.page summary:focus-visible {
+  outline: 3px solid var(--primary);
+  outline-offset: 5px;
+}
+.story {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-self: stretch;
+  min-width: 0;
+  padding: 32px clamp(42px, 4.2vw, 82px) 28px clamp(28px, 3vw, 58px);
+  color: oklch(0.97 0.012 85);
+}
+.artwork {
+  object-fit: cover;
+  object-position: center;
+}
+.storyShade {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(
+      180deg,
+      oklch(0.15 0.02 60 / 0.3),
+      transparent 45%,
+      transparent 65%,
+      oklch(0.16 0.02 60 / 0.85)
+    ),
+    linear-gradient(90deg, oklch(0.16 0.02 60 / 0.15), transparent 76%);
+}
+.storyHeader {
+  direction: ltr;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 22px;
+  padding-bottom: 12px;
+}
+.universityBrand {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  font-size: 17px;
+  font-weight: 600;
+}
+.brandSeal {
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+.universityBrand small {
+  display: block;
+  margin-top: 3px;
+  font-size: 10px;
+  font-weight: 400;
+}
+.researchLabel {
+  font-size: 12px;
+  color: oklch(0.89 0.045 80);
+}
+.researchLabel small {
+  display: block;
+  margin-top: 5px;
+  font-size: 11px;
+  color: oklch(0.8 0.025 80);
+}
+.storyCopy {
+  margin-top: 28px;
+  max-width: 780px;
+  text-align: center;
+  animation: arrive 0.8s ease-out both;
+}
+.eyebrow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 9px;
+  font-size: 13px;
+  color: oklch(0.88 0.06 80);
+}
+.storyCopy h1 {
+  font-size: clamp(28px, 2.9vw, 46px);
+  line-height: 1.6;
+  font-weight: 500;
+  margin-top: 10px;
+  text-wrap: balance;
+}
+.projectSubtitle {
+  font-size: clamp(14px, 1.3vw, 19px);
+  color: oklch(0.92 0.025 80);
+  margin-top: 4px;
+}
+.tagline {
+  font-size: clamp(21px, 2vw, 30px);
+  font-weight: 400;
+  line-height: 1.7;
+  margin-top: 29px;
+}
+.storyDescription {
+  max-width: 490px;
+  font-size: 15px;
+  line-height: 2;
+  color: oklch(0.92 0.018 80);
+  margin: 12px auto 0;
+}
+.sceneNotes {
+  min-height: 320px;
+  flex: 1;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 22px;
+  padding: 38px 0 30px;
+  direction: ltr;
+}
+.sceneQuote {
+  font-size: 20px;
+  line-height: 1.8;
+  text-align: left;
+}
+.sceneQuote span {
+  color: oklch(0.89 0.055 80);
+}
+.signalCards {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  direction: rtl;
+}
+.signalCards > div {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  border: 0;
+  border-radius: 10px;
+  background: oklch(0.23 0.025 60 / 0.88);
+  padding: 14px 16px;
+}
+.signalCards svg {
+  color: oklch(0.91 0.028 80);
+  flex-shrink: 0;
+}
+.signalCards span {
+  font-size: 13px;
+}
+.signalCards small {
+  display: block;
+  font-size: 11px;
+  margin-top: 4px;
+  color: oklch(0.85 0.028 80);
+}
+.storyFooter {
+  margin-top: auto;
+}
+.capabilities {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 12px;
+  padding: 25px 0;
+}
+.capabilities > div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+.capabilities svg {
+  color: oklch(0.91 0.028 80);
+}
+.capabilities span {
+  font-size: 12px;
+}
+.storyFootnote {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  border-top: 1px solid oklch(0.85 0.04 80 / 0.18);
+  padding-top: 19px;
+  color: oklch(0.79 0.025 80);
+  font-size: 11px;
+}
+.storyFootnote span:last-child {
+  font-size: 11px;
+}
+.formSide {
+  display: flex;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+  min-width: 0;
+  margin-left: -44px;
+  padding: 28px 18px 28px 0;
+}
+.formCard {
+  width: 100%;
+  padding: 26px clamp(26px, 2.5vw, 42px) 23px;
+  background: var(--card);
+  border: 0;
+  border-radius: 28px;
+  box-shadow: -12px 20px 56px oklch(0.18 0.015 60 / 0.16);
+  animation: arrive 0.7s 0.1s ease-out both;
+}
+.cardTop {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+}
+.languages {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  font-size: 13px;
+}
+.languages button {
+  background: none;
+  border: none;
+  padding: 7px 0 12px;
+  color: var(--muted-foreground);
+  position: relative;
+}
+.languages button[aria-pressed="true"] {
+  color: var(--foreground);
+  font-weight: 600;
+}
+.languages button[aria-pressed="true"]:after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  inset-inline: 0;
+  height: 2px;
+  background: var(--primary);
+  border-radius: 3px;
+}
+.languages > span {
+  height: 14px;
+  width: 1px;
+  background: var(--border);
+}
+.backLink {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  color: var(--muted-foreground);
+  font-size: 12px;
+}
+.welcome {
+  text-align: center;
+  margin-top: 20px;
+}
+.formLogo {
+  margin-inline: auto;
+  border-radius: 50%;
+  width: 82px;
+  height: 82px;
+}
+.demoBadge {
+  display: table;
+  margin: 14px auto 0;
+  font-size: 12px;
+  color: var(--muted-foreground);
+}
+.welcome h2 {
+  font-size: 34px;
+  font-weight: 500;
+  line-height: 1.5;
+  margin-top: 12px;
+}
+.welcome > p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.8;
+  margin-top: 3px;
+}
+.welcome > small {
+  display: block;
+  margin-top: 9px;
+  font-size: 13px;
+  color: var(--muted-foreground);
+  line-height: 1.7;
+}
+.form {
+  margin-top: 24px;
+}
+.field + .field {
+  margin-top: 17px;
+}
+.field label {
+  display: block;
+  font-size: 13px;
+  font-weight: 500;
+  margin-bottom: 7px;
+}
+.inputWrap {
+  position: relative;
+}
+.inputWrap input {
+  background: oklch(0.985 0.004 85);
+  border: 1px solid var(--border);
+  width: 100%;
+  border-radius: 10px;
+  min-height: 54px;
+  padding: 12px 16px 12px 46px;
+  font-size: 14px;
+  color: var(--foreground);
+  transition:
+    border-color 0.2s,
+    box-shadow 0.2s;
+}
+.inputWrap input:focus {
+  outline: none;
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px oklch(0.665 0.122 68 / 0.12);
+}
+.fieldIcon {
+  position: absolute;
+  top: 18px;
+  left: 16px;
+  color: var(--muted-foreground);
+  pointer-events: none;
+}
+.passwordWrap input {
+  padding-right: 49px;
+}
+.passwordToggle {
+  position: absolute;
+  right: 6px;
+  top: 6px;
+  width: 42px;
+  height: 42px;
+  display: grid;
+  place-items: center;
+  background: transparent;
+  border: 0;
+  border-radius: 10px;
+  color: var(--muted-foreground);
+}
+.passwordToggle:hover {
+  background: var(--secondary);
+}
+.credentials {
+  font-size: 12px;
+  color: var(--muted-foreground);
+  margin-top: 13px;
+}
+.credentials summary {
+  cursor: pointer;
+  width: fit-content;
+}
+.credentials p {
+  margin-top: 7px;
+  font-size: 12px;
+}
+.credentials p[dir="ltr"] {
+  text-align: start;
+}
+.signIn,
+.demoButton {
+  min-height: 53px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 13px;
+  border-radius: 10px;
+  font-weight: 500;
+  font-size: 14px;
+  transition: background 0.2s;
+}
+.signIn {
+  margin-top: 22px;
+  background: var(--primary);
+  color: oklch(0.19 0.02 60);
+  border: 1px solid var(--primary);
+}
+.signIn:hover {
+  background: oklch(0.72 0.12 70);
+}
+.divider {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin: 18px 0;
+  font-size: 12px;
+  color: var(--muted-foreground);
+}
+.divider span {
+  flex: 1;
+  height: 1px;
+  background: var(--border);
+}
+.demoButton {
+  color: var(--foreground);
+  border: 1px solid var(--border);
+  background: transparent;
+  font-size: 14px;
+}
+.demoButton:hover {
+  background: var(--secondary);
+}
+.demoButton svg {
+  color: var(--muted-foreground);
+}
+.demoNotice {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  background: var(--secondary);
+  border-radius: 10px;
+  padding: 14px;
+  margin-top: 24px;
+}
+.demoNotice svg {
+  flex-shrink: 0;
+  color: var(--muted-foreground);
+  margin-top: 2px;
+}
+.demoNotice p {
+  font-size: 12px;
+  line-height: 1.9;
+  color: var(--muted-foreground);
+}
+.cardFooter {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 23px;
+  padding-top: 17px;
+  font-size: 11px;
+  color: var(--muted-foreground);
+}
+@keyframes arrive {
+  from {
+    opacity: 0;
+    transform: translateY(15px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@media (min-width: 1550px) {
+  .story {
+    padding-top: 40px;
+  }
+  .storyCopy {
+    margin-top: 40px;
+  }
+  .formCard {
+    padding-block: 28px;
+  }
+  .welcome {
+    margin-top: 24px;
+  }
+}
+@media (max-width: 1150px) {
+  .page {
+    grid-template-columns: minmax(0, 62fr) minmax(0, 38fr);
+  }
+  .backdrop {
+    width: 62%;
+  }
+  .formSide {
+    margin-left: -28px;
+    padding-right: 14px;
+  }
+  .researchLabel {
+    display: none;
+  }
+  .story {
+    padding-left: 25px;
+    padding-right: 48px;
+  }
+  .storyCopy h1 {
+    font-size: 29px;
+  }
+  .storyDescription {
+    font-size: 13px;
+  }
+  .sceneQuote {
+    font-size: 16px;
+  }
+  .signalCards > div {
+    padding: 12px;
+    gap: 8px;
+  }
+  .signalCards span {
+    font-size: 12px;
+  }
+  .signalCards small {
+    font-size: 10px;
+  }
+  .formCard {
+    padding-inline: 28px;
+  }
+}
+@media (max-width: 900px) {
+  .page {
+    grid-template-columns: 1fr;
+    padding: 0 0 30px;
+  }
+  .backdrop {
+    width: 100%;
+    height: 690px;
+    border-bottom-right-radius: 35% 12%;
+  }
+  .story {
+    min-height: 660px;
+    width: 100%;
+    max-width: 700px;
+    margin-inline: auto;
+    padding: 28px 32px 70px;
+  }
+  .storyCopy {
+    margin-top: 38px;
+  }
+  .storyCopy h1 {
+    font-size: 35px;
+  }
+  .storyDescription {
+    max-width: 430px;
+  }
+  .artwork {
+    object-position: center;
+  }
+  .sceneNotes,
+  .storyFooter {
+    display: none;
+  }
+  .formSide {
+    padding: 0 24px;
+    margin: -45px 0 0;
+    justify-content: center;
+  }
+  .formCard {
+    max-width: 580px;
+    padding: 24px 32px;
+  }
+  .welcome {
+    margin-top: 24px;
+  }
+}
+@media (max-width: 480px) {
+  .page {
+    padding-bottom: 22px;
+  }
+  .backdrop {
+    height: 670px;
+  }
+  .story {
+    padding: 22px 21px 70px;
+    min-height: 640px;
+  }
+  .universityBrand {
+    font-size: 16px;
+  }
+  .brandSeal {
+    width: 46px;
+    height: 46px;
+  }
+  .storyCopy {
+    margin-top: 30px;
+  }
+  .storyCopy h1 {
+    font-size: 29px;
+  }
+  .storyDescription {
+    font-size: 14px;
+    margin-top: 15px;
+  }
+  .formSide {
+    padding-inline: 16px;
+  }
+  .formCard {
+    border-radius: 24px;
+    padding: 21px;
+  }
+  .formLogo {
+    width: 78px;
+    height: 78px;
+  }
+  .welcome h2 {
+    font-size: 30px;
+  }
+  .welcome > p {
+    font-size: 14px;
+  }
+  .welcome > small {
+    font-size: 12px;
+  }
+  .cardFooter {
+    font-size: 11px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .page *,
+  .page *:before,
+  .page *:after {
+    animation: none !important;
+    transition: none !important;
+  }
+}

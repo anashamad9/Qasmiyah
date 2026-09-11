@@ -46,7 +46,7 @@ export function AIThinkingOverlay({
       aria-modal="true"
       aria-label={ar ? "جاري تحليل البيانات" : "Analyzing data"}
     >
-      <section className="w-full max-w-md border border-border bg-card p-6 shadow-2xl">
+      <section className="w-full max-w-md rounded-2xl border border-border bg-card p-6 shadow-2xl">
         <div className="flex items-center gap-4">
           <div className="relative shrink-0">
             <BrandMark size={52} />

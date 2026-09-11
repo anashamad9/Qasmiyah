@@ -102,7 +102,7 @@ export function PageModelRunner() {
 
   return (
     <>
-      <section className="flex flex-wrap items-center gap-3 border border-primary/25 bg-card px-4 py-3">
+      <section className="flex flex-wrap items-center gap-3 rounded-xl border border-primary/25 bg-card px-4 py-3">
         <span className="flex size-9 shrink-0 items-center justify-center rounded-full bg-primary/10 text-primary">
           <HugeIcon icon={AiMagicIcon} size={19} />
         </span>
@@ -148,7 +148,7 @@ export function PageModelRunner() {
 
       {resultOpen && result ? (
         <div className="fixed inset-0 z-[95] flex items-center justify-center bg-foreground/35 p-4 backdrop-blur-sm">
-          <section className="relative max-h-[85vh] w-full max-w-2xl overflow-y-auto border border-border bg-card p-6 shadow-2xl">
+          <section className="relative max-h-[85vh] w-full max-w-2xl overflow-y-auto rounded-2xl border border-border bg-card p-6 shadow-2xl">
             <button
               type="button"
               aria-label={ar ? "إغلاق" : "Close"}

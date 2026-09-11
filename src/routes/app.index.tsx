@@ -95,7 +95,7 @@ export default function Overview() {
         subtitleEn="Executive Overview — Prototype Simulation Environment"
       />
 
-      <div className="border-s-2 border-primary bg-card px-4 py-3 text-xs text-foreground/80">
+      <div className="rounded-xl border-s-2 border-primary bg-card px-4 py-3 text-xs text-foreground/80">
         <span className="font-semibold text-foreground">
           {hasLiveData
             ? isArabic

@@ -203,7 +203,7 @@ export default function AppLayout({ children }: { children: ReactNode }) {
               </div>
             ) : dataRequired ? (
               <div className="flex min-h-[55vh] items-center justify-center">
-                <section className="w-full max-w-xl border border-border bg-card p-8 text-center">
+                <section className="w-full max-w-xl rounded-2xl border border-border bg-card p-8 text-center">
                   <HugeIcon icon={Database01Icon} className="mx-auto text-primary" size={34} />
                   <h1 className="mt-4 text-xl font-semibold text-foreground">
                     {isArabic ? "يلزم رفع البيانات أولاً" : "Upload data to continue"}
