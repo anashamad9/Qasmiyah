@@ -8,23 +8,19 @@ interface IntelligenceDataContextValue {
   data: IntelligenceDataset | null;
   hasLiveData: boolean;
   ready: boolean;
-  expiresAt: number | null;
   setLiveData: (data: IntelligenceDataset) => void;
   clearLiveData: () => void;
 }
 
 const STORAGE_KEY = "sgc-live-intelligence-data-v1";
-const DATA_TTL_MS = 5 * 60 * 1000;
 const IntelligenceDataContext = createContext<IntelligenceDataContextValue | null>(null);
 
 interface StoredDataset {
   data: IntelligenceDataset;
-  expiresAt: number;
 }
 
 export function IntelligenceDataProvider({ children }: { children: ReactNode }) {
   const [liveData, setLiveDataState] = useState<IntelligenceDataset | null>(null);
-  const [expiresAt, setExpiresAt] = useState<number | null>(null);
   const [ready, setReady] = useState(false);
 
   useEffect(() => {
@@ -32,9 +28,8 @@ export function IntelligenceDataProvider({ children }: { children: ReactNode }) 
       const stored = localStorage.getItem(STORAGE_KEY);
       if (stored) {
         const parsed = JSON.parse(stored) as StoredDataset;
-        if (parsed.data && parsed.expiresAt > Date.now()) {
+        if (parsed.data) {
           setLiveDataState(parsed.data);
-          setExpiresAt(parsed.expiresAt);
         } else {
           localStorage.removeItem(STORAGE_KEY);
         }
@@ -46,45 +41,21 @@ export function IntelligenceDataProvider({ children }: { children: ReactNode }) 
     }
   }, []);
 
-  useEffect(() => {
-    if (!expiresAt) return;
-    const remaining = expiresAt - Date.now();
-    if (remaining <= 0) {
-      setLiveDataState(null);
-      setExpiresAt(null);
-      localStorage.removeItem(STORAGE_KEY);
-      return;
-    }
-    const timer = window.setTimeout(() => {
-      setLiveDataState(null);
-      setExpiresAt(null);
-      localStorage.removeItem(STORAGE_KEY);
-    }, remaining);
-    return () => window.clearTimeout(timer);
-  }, [expiresAt]);
-
   const value = useMemo<IntelligenceDataContextValue>(
     () => ({
       data: liveData,
       hasLiveData: Boolean(liveData),
       ready,
-      expiresAt,
       setLiveData: (next) => {
-        const nextExpiry = Date.now() + DATA_TTL_MS;
         setLiveDataState(next);
-        setExpiresAt(nextExpiry);
-        localStorage.setItem(
-          STORAGE_KEY,
-          JSON.stringify({ data: next, expiresAt: nextExpiry } satisfies StoredDataset),
-        );
+        localStorage.setItem(STORAGE_KEY, JSON.stringify({ data: next } satisfies StoredDataset));
       },
       clearLiveData: () => {
         setLiveDataState(null);
-        setExpiresAt(null);
         localStorage.removeItem(STORAGE_KEY);
       },
     }),
-    [expiresAt, liveData, ready],
+    [liveData, ready],
   );
 
   return (

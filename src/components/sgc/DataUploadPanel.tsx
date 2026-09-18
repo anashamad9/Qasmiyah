@@ -94,8 +94,8 @@ export function DataUploadPanel() {
       if (inputRef.current) inputRef.current.value = "";
       setMessage(
         ar
-          ? "اكتمل التحليل. ستُحذف النتيجة تلقائياً بعد 5 دقائق."
-          : "Analysis complete. The result will be deleted automatically after 5 minutes.",
+          ? "اكتمل التحليل. ستبقى النتيجة محفوظة حتى تحذف بيانات العرض التوضيحي."
+          : "Analysis complete. The result will remain saved until you delete the demo data.",
       );
       setAnalysisComplete(true);
       setLiveProgress(100);
@@ -109,6 +109,11 @@ export function DataUploadPanel() {
       setLiveProgress(0);
       setLiveStage(undefined);
     }
+  }
+
+  function deleteDemoData() {
+    clearLiveData();
+    setMessage(ar ? "تم حذف بيانات العرض التوضيحي." : "Demo data deleted.");
   }
 
   return (
@@ -160,9 +165,9 @@ export function DataUploadPanel() {
                   : "Analyze & activate"}
             </Button>
             {hasLiveData ? (
-              <Button variant="outline" onClick={clearLiveData} disabled={working}>
+              <Button variant="destructive" onClick={deleteDemoData} disabled={working}>
                 <HugeIcon icon={Delete02Icon} size={17} />
-                {ar ? "إزالة البيانات الحالية" : "Remove current data"}
+                {ar ? "حذف بيانات العرض التوضيحي" : "Delete demo data"}
               </Button>
             ) : null}
           </div>
@@ -217,10 +222,10 @@ export function DataUploadPanel() {
                 </div>
                 <div className="flex items-center justify-between gap-3">
                   <dt className="text-muted-foreground">
-                    {ar ? "الحذف التلقائي" : "Automatic deletion"}
+                    {ar ? "مدة الاحتفاظ" : "Data retention"}
                   </dt>
                   <dd className="font-medium text-foreground">
-                    {ar ? "بعد 5 دقائق" : "After 5 minutes"}
+                    {ar ? "حتى الحذف اليدوي" : "Until manually deleted"}
                   </dd>
                 </div>
               </>
